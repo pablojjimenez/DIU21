@@ -15,8 +15,8 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   [Raquel Molina Reche](https://github.com/rmr00)     :octocat:     
+ * :bust_in_silhouette:   [Pablo Jiménez Jiménez](https://github.com/pablojj1808)     :octocat:
 
 ----- 
 
