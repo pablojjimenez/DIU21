@@ -1,5 +1,4 @@
-## DIU - Practica1, entregables
-
+## DIU - Practica 1
 
 
 
