@@ -37,6 +37,7 @@ Hemos decidido tomar _Amovens_ como referencia por ser la más completa.
 
 ## Revisión de Usabilidad 
 [Enlace con el documento de la revisión](https://github.com/pablojj1808/DIU21/blob/master/P1/Usability-review.pdf)
+
 Valoración final: **86**
 
 La plataforma elegida es una de las grandes del sector, presenta una cómoda y cuidada interfaz de usuario tanto en su versión web como para dispositivos móviles (estas interfaces son muy parecidas, siguen las mismas líneas de diseño). Además, está disponible en 4 idiomas distintos. Amovens se postula como la gran aplicación que oferta dos servicios en una misma plataforma: compartir viajes y alquiler vehículo. Es difícil encontrarle fallos, como se puede notar por su alta puntuación. Aunque encontramos una tara a la hora de poder recibir ayuda en línea para su correcto uso. En caso de problemas técnicos tampoco tiene esta opción, todo se redirige a ponerte en contacto con ellos vía e-mail.
