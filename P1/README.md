@@ -3,7 +3,8 @@
 
 
 ## Análisis Competencia 
-
+Hemos encontrado diferentes plataformas que acometen las mismas funcionalidades; compatir los gastos de un viaje y poder alquilar tu vehículo. En la siguiente tabla se observa una comparativa entre las distintas plataformas.
+ 
 |         | [Amovens](https://amovens.com) | [BlaBlaCar](https://www.blablacar.es) | [Amicoche](https://amicoche.com) | [GetAround](https://es.getaround.com) | [SocialCar](https://www.socialcar.com) |
 |------|------|------|-------|-------|-----|
 |Compartir viaje  | ✅ | ✅ | ✅ | ❌ | ❌ |
@@ -23,16 +24,19 @@
 |Chat online      | ✅ | ✅ | ✅ | ✅ | ❌ |
 |Penalización fija| ❌ | ❌ | ❌ | ✅ | ✅ |
 
+Hemos decidido tomar _Amovens_ como referencia por ser la más completa.
+
 ## Personas
-![Screenshot_2021-03-11 User Persona](https://user-images.githubusercontent.com/45092820/110809544-46803280-8285-11eb-9c5e-7d9b1206c635.png)
-![Screenshot_2021-03-11 User Persona(1)](https://user-images.githubusercontent.com/45092820/110809564-4b44e680-8285-11eb-9924-a93ee8c32a55.png)
+![Screenshot_2021-03-17 User Persona](https://user-images.githubusercontent.com/45092820/111523382-851d5d80-875b-11eb-88d2-c955198897e6.png)
+![Screenshot_2021-03-17 User Persona(1)](https://user-images.githubusercontent.com/45092820/111523402-8babd500-875b-11eb-9935-d66775d62197.png)
 
 ## Journey Map
-![Screenshot_2021-03-11 User Journey Map](https://user-images.githubusercontent.com/45092820/110809602-55ff7b80-8285-11eb-8b18-b91e246216fb.png)
-![Screenshot_2021-03-11 User Journey Map(1)](https://user-images.githubusercontent.com/45092820/110809608-5861d580-8285-11eb-93d5-c190aa305c66.png)
+![Screenshot_2021-03-17 User Journey Map](https://user-images.githubusercontent.com/45092820/111523418-8ea6c580-875b-11eb-824f-658eb80b8c63.png)
+![Screenshot_2021-03-17 User Journey Map(1)](https://user-images.githubusercontent.com/45092820/111523430-91091f80-875b-11eb-91da-d72a79e54fe8.png)
 
 
-- Revisión de Usabilidad 
+## Revisión de Usabilidad 
+[Enlace con el documento de la revisión](https://github.com/pablojj1808/DIU21/blob/master/P1/Usability-review.pdf)
+Valoración final: **86**
 
-
-(valoración y conclusiones de esta etapa)
+La plataforma elegida es una de las grandes del sector, presenta una cómoda y cuidada interfaz de usuario tanto en su versión web como para dispositivos móviles (estas interfaces son muy parecidas, siguen las mismas líneas de diseño). Además, está disponible en 4 idiomas distintos. Amovens se postula como la gran aplicación que oferta dos servicios en una misma plataforma: compartir viajes y alquiler vehículo. Es difícil encontrarle fallos, como se puede notar por su alta puntuación. Aunque encontramos una tara a la hora de poder recibir ayuda en línea para su correcto uso. En caso de problemas técnicos tampoco tiene esta opción, todo se redirige a ponerte en contacto con ellos vía e-mail.
