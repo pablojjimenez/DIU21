@@ -15,15 +15,10 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   [Raquel Molina Reche](https://github.com/rmr00)     :octocat:     
+ * :bust_in_silhouette:   [Raquel Molina Reche](https://github.com/rmr00)             :octocat:     
  * :bust_in_silhouette:   [Pablo Jiménez Jiménez](https://github.com/pablojj1808)     :octocat:
 
 ----- 
-
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
-
 
 # Proceso de Diseño 
 
