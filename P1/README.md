@@ -12,32 +12,37 @@ Hemos encontrado diferentes plataformas que acometen las mismas funcionalidades;
 |Seguro de viaje  | ✅ | ❌ | ❌ | ✅ | ✅ |
 |Pago efectivo    | ❌ | ❌ | ✅ | ❌ | ❌ |
 |Comisiones       | ✅ | ✅ | ❌ | ✅ | ✅ |
-|Fomato Web       | ✅ | ✅ | ✅ | ✅ | ✅ |
-|Formato App      | ✅ | ✅ | ✅ | ✅ | ✅ |
-|Android          | ✅ | ✅ | ✅ | ✅ | ✅ |
-|iOS              | ✅ | ✅ | ✅ | ✅ | ❌ |
+|Disponible Web       | ✅ | ✅ | ✅ | ✅ | ✅ |
+|Disponible Android          | ✅ | ✅ | ✅ | ✅ | ✅ |
+|Disponible iOS              | ✅ | ✅ | ✅ | ✅ | ❌ |
 |Uso gratuito     | ✅ | ✅ | ✅ | ✅ | ✅ |
 |Exige registro   | ✅ | ✅ | ✅ | ✅ | ✅ |
 |Más de 3 idiomas | ✅ | ✅ | ❌ | ✅ | ❌ |
 |Informaación RRSS| ✅ | ✅ | ✅ | ✅ | ✅ |
 |Información de contacto| ✅ | ✅ | ✅ | ✅ | ✅ |
 |Chat online      | ✅ | ✅ | ✅ | ✅ | ❌ |
-|Penalización fija| ❌ | ❌ | ❌ | ✅ | ✅ |
+|Reembolso por cancelación| ❌ | ❌ | ❌ | ✅ | ✅ |
 
 Hemos decidido tomar _Amovens_ como referencia por ser la más completa.
 
 ## Personas
 
-Hemos creado dos personas: Ricardo y Sandra; Ricardo, se postula como un potencial usuario de esta plataforma pues necesita desplazarse a diario por tema de trabajo. Sandra, una chica normal que busca ahorrar dinero. 
+Hemos creado dos personas: Ricardo y Sandra.
 
-![Screenshot_2021-03-17 User Persona](https://user-images.githubusercontent.com/45092820/111523382-851d5d80-875b-11eb-88d2-c955198897e6.png)
-![Screenshot_2021-03-17 User Persona(1)](https://user-images.githubusercontent.com/45092820/111523402-8babd500-875b-11eb-9935-d66775d62197.png)
+Ricardo, un cámara de CanalSur que busca como optimizar sus desplazamientos diarios para ir a trabajar. Un apasionado del deporte, de salir con sus amigos y viajar por todo el mundo.
+![Screenshot_2021-03-25 User Persona](https://user-images.githubusercontent.com/45092820/112497895-510ef180-8d86-11eb-80c9-c92bdb33ea17.png)
+
+Sandra, una profesora de inglés enamorada de la naturaleza que vive lejos de su familia y seguidora de los movimientos eco-friendly.
+![Screenshot_2021-03-25 User Persona(1)](https://user-images.githubusercontent.com/45092820/112498029-6f74ed00-8d86-11eb-966f-6c770f56ec19.png)
+
 
 ## Journey Map
 
 Descripción de la experiencia de uso de las personas presentadas anteriormente.
 
+La experiencia de Ricardo al enfrentarse a la plataforma fue bastante correcta aunque opina que 
 ![Screenshot_2021-03-17 User Journey Map](https://user-images.githubusercontent.com/45092820/111523418-8ea6c580-875b-11eb-824f-658eb80b8c63.png)
+
 ![Screenshot_2021-03-17 User Journey Map(1)](https://user-images.githubusercontent.com/45092820/111523430-91091f80-875b-11eb-91da-d72a79e54fe8.png)
 
 
