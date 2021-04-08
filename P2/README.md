@@ -17,9 +17,29 @@ La aplicación abarcará cuatro vertientes:
 
 
 ### TASK ANALYSIS
+🟢 **ALTO
+🟠 MEDIO
+🔴 ABAJO PSOE
+❌ NO PUEDE**
 
-* User Task Matrix 
-* User/Task flow
+| GRUPOS DE USUARIO | ESTÁNDAR | PREMIUM | ESTABLECIMIENTOS | NO REGISTRADOS |
+|-------------------|----------|---------|------------------|----------------|
+| INICIAR SESIÓN    |  🟢  | 🟢  | 🟢  | 🔴  | 
+| BUSCAR ESTANCIA   |  🟢  | 🟢  | 🔴  | 🟠  |
+| BUSCAR RESTAURACIÓN|  🟢  | 🟢  | 🔴  | 🟠  |
+| BUSCAR TRANSPORTE|  🟢  | 🟢  | 🔴  | 🟠  |
+| BUSCAR OCIO |  🟢  | 🟢  | 🔴  | 🟠  |
+| HACERSE PREMIUM |  🟢  | 🔴  | 🔴  | 🟠  |
+| PREGUNTAR OTROS USUARIOS |  🟢  | 🟢  | 🔴  | 🟢  |
+| MODO NOCHE |  🟢  | 🟢  |  🟢  | 🟢  |
+| CONSULTAR PROMOCIONES |  🟢  | 🟠  |  🟠  | 🟢  |
+| CONSULTAR NOTIFICACIONES |  🟢  | 🟢 |  🟢  | 🟠  |
+| SOLICITAR AYUDA |  🟠  | 🟠 |  🟢  |🟢  |
+| CONSULTAR CALENDARIO |  🟢  | 🟢 |  🟢  | 🔴  |
+| CREAR ACTIVIDAD  | ❌ | ❌ | 🟢 | ❌|
+| BORRAR ACTIVIDAD | ❌ | ❌ | 🟠 | ❌|
+| ALTA PROMOCIÓN   | ❌ | ❌ | 🟢 | ❌|
+| BAJO PROMOCIÓN   | ❌ | ❌ | 🟠 | ❌|
 
 
 ### ARQUITECTURA DE INFORMACIÓN
