@@ -26,6 +26,23 @@ Miembros
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
+|         | [Amovens](https://amovens.com) | [BlaBlaCar](https://www.blablacar.es) | [Amicoche](https://amicoche.com) | [GetAround](https://es.getaround.com) | [SocialCar](https://www.socialcar.com) |
+|------|------|------|-------|-------|-----|
+|Compartir viaje  | ✅ | ✅ | ✅ | ❌ | ❌ |
+|Alquiler vehículo| ✅ | ❌ | ❌ | ✅ | ✅ |
+|Seguro de viaje  | ✅ | ❌ | ❌ | ✅ | ✅ |
+|Pago efectivo    | ❌ | ❌ | ✅ | ❌ | ❌ |
+|Comisiones       | ✅ | ✅ | ❌ | ✅ | ✅ |
+|Disponible Web       | ✅ | ✅ | ✅ | ✅ | ✅ |
+|Disponible Android          | ✅ | ✅ | ✅ | ✅ | ✅ |
+|Disponible iOS              | ✅ | ✅ | ✅ | ✅ | ❌ |
+|Uso gratuito     | ✅ | ✅ | ✅ | ✅ | ✅ |
+|Exige registro   | ✅ | ✅ | ✅ | ✅ | ✅ |
+|Más de 3 idiomas | ✅ | ✅ | ❌ | ✅ | ❌ |
+|Informaación RRSS| ✅ | ✅ | ✅ | ✅ | ✅ |
+|Información de contacto| ✅ | ✅ | ✅ | ✅ | ✅ |
+|Chat online      | ✅ | ✅ | ✅ | ✅ | ❌ |
+|Reembolso por cancelación| ❌ | ❌ | ❌ | ✅ | ✅ |
 
 Hemos enfrentado estas plataformas: [Amovens](https://amovens.com), [BlaBlaCar](https://www.blablacar.es), [Amicoche](https://amicoche.com), [GetAround](https://es.getaround.com), [SocialCar](https://www.socialcar.com); con el fin de obtener evaluar sus funcionales comparandolas entre sus competidores directos.
 El conjunto de plataformas presenta unas características muy heterogeneas donde es complicado concluir claras diferencias podemos destacar la falta de traducción en algunas de ellas, la disponibilidad de la aplicación en todos los sistemas operativos y la adaptabilidad a los diferentes medios de pago. Decidimos tomar a Amovens como referencia por ser la más completa.
