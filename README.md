@@ -27,7 +27,7 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
-Hemos enfrentado estas plataformas: [Amovens](https://amovens.com), [BlaBlaCar](https://www.blablacar.es), [Amicoche](https://amicoche.com), [GetAround](https://es.getaround.com), [SocialCar](https://www.socialcar.com), con el fin de obtener evaluar sus funcionales comparandolas entre sus competidores directos.
+Hemos enfrentado estas plataformas: [Amovens](https://amovens.com), [BlaBlaCar](https://www.blablacar.es), [Amicoche](https://amicoche.com), [GetAround](https://es.getaround.com), [SocialCar](https://www.socialcar.com); con el fin de obtener evaluar sus funcionales comparandolas entre sus competidores directos.
 El conjunto de plataformas presenta unas características muy heterogeneas donde es complicado concluir claras diferencias podemos destacar la falta de traducción en algunas de ellas, la disponibilidad de la aplicación en todos los sistemas operativos y la adaptabilidad a los diferentes medios de pago. Decidimos tomar a Amovens como referencia por ser la más completa.
 
 ![Método UX](img/Persona.png) 1.b Persona
