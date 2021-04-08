@@ -27,26 +27,38 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+Hemos enfrentado estas plataformas: [Amovens](https://amovens.com), [BlaBlaCar](https://www.blablacar.es), [Amicoche](https://amicoche.com), [GetAround](https://es.getaround.com), [SocialCar](https://www.socialcar.com), con el fin de obtener evaluar sus funcionales comparandolas entre sus competidores directos.
+El conjunto de plataformas presenta unas características muy heterogeneas donde es complicado concluir claras diferencias podemos destacar la falta de traducción en algunas de ellas, la disponibilidad de la aplicación en todos los sistemas operativos y la adaptabilidad a los diferentes medios de pago. Decidimos tomar a Amovens como referencia por ser la más completa.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+Hemos creado dos personas: Ricardo y Sandra.
+
+Ricardo, un cámara de CanalSur que busca como optimizar sus desplazamientos diarios para ir a trabajar. Un apasionado del deporte, de salir con sus amigos y viajar por todo el mundo.
+![Screenshot_2021-03-25 User Persona](https://user-images.githubusercontent.com/45092820/112497895-510ef180-8d86-11eb-80c9-c92bdb33ea17.png)
+
+Sandra, una profesora de inglés enamorada de la naturaleza que vive lejos de su familia y seguidora de los movimientos eco-friendly.
+![Screenshot_2021-03-25 User Persona(1)](https://user-images.githubusercontent.com/45092820/112498029-6f74ed00-8d86-11eb-966f-6c770f56ec19.png)
+
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
+Descripción de la experiencia de uso de las personas presentadas anteriormente.
 
+La experiencia de Ricardo al enfrentarse a la plataforma fue bastante correcta aunque le hubiese gustado más conocer la necesidad de los datos que requiere la plataforma.
+![Screenshot_2021-03-17 User Journey Map](https://user-images.githubusercontent.com/45092820/111523418-8ea6c580-875b-11eb-824f-658eb80b8c63.png)
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+Sandra no estaba muy segura de usar la plataforma para compartir su coche pero la experiencia bue encomiable y volvería a repetir.
+![Screenshot_2021-03-17 User Journey Map(1)](https://user-images.githubusercontent.com/45092820/111523430-91091f80-875b-11eb-91da-d72a79e54fe8.png)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+[Enlace con el documento de la revisión](https://github.com/pablojj1808/DIU21/blob/master/P1/Usability-review.pdf)
+
+Valoración final: **72**
+
+La plataforma elegida es una de las grandes del sector, presenta una cómoda y cuidada interfaz de usuario tanto en su versión web como para dispositivos móviles (estas interfaces son muy parecidas, siguen las mismas líneas de diseño). Además, está disponible en 4 idiomas distintos. Amovens se postula como la gran aplicación que oferta dos servicios en una misma plataforma: compartir viajes y alquiler vehículo. Es difícil encontrarle fallos, como se puede notar por su alta puntuación. Aunque encontramos una tara a la hora de poder recibir ayuda en línea para su correcto uso. En caso de problemas técnicos tampoco tiene esta opción, todo se redirige a ponerte en contacto con ellos vía e-mail.
 
 
 ## Paso 2. UX Design  
