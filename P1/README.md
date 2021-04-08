@@ -40,15 +40,16 @@ Sandra, una profesora de inglés enamorada de la naturaleza que vive lejos de su
 
 Descripción de la experiencia de uso de las personas presentadas anteriormente.
 
-La experiencia de Ricardo al enfrentarse a la plataforma fue bastante correcta aunque opina que 
+La experiencia de Ricardo al enfrentarse a la plataforma fue bastante correcta aunque le hubiese gustado más conocer la necesidad de los datos que requiere la plataforma.
 ![Screenshot_2021-03-17 User Journey Map](https://user-images.githubusercontent.com/45092820/111523418-8ea6c580-875b-11eb-824f-658eb80b8c63.png)
 
+Sandra no estaba muy segura de usar la plataforma para compartir su coche pero la experiencia bue encomiable y volvería a repetir.
 ![Screenshot_2021-03-17 User Journey Map(1)](https://user-images.githubusercontent.com/45092820/111523430-91091f80-875b-11eb-91da-d72a79e54fe8.png)
 
 
 ## Revisión de Usabilidad 
 [Enlace con el documento de la revisión](https://github.com/pablojj1808/DIU21/blob/master/P1/Usability-review.pdf)
 
-Valoración final: **86**
+Valoración final: **72**
 
 La plataforma elegida es una de las grandes del sector, presenta una cómoda y cuidada interfaz de usuario tanto en su versión web como para dispositivos móviles (estas interfaces son muy parecidas, siguen las mismas líneas de diseño). Además, está disponible en 4 idiomas distintos. Amovens se postula como la gran aplicación que oferta dos servicios en una misma plataforma: compartir viajes y alquiler vehículo. Es difícil encontrarle fallos, como se puede notar por su alta puntuación. Aunque encontramos una tara a la hora de poder recibir ayuda en línea para su correcto uso. En caso de problemas técnicos tampoco tiene esta opción, todo se redirige a ponerte en contacto con ellos vía e-mail.
