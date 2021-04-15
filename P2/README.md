@@ -1,6 +1,7 @@
 ## DIU - Practica2, entregables
 
 ### Ideación 
+Estamos ideando **GrandTrip** para ser una plataforma que intgre todas las labores que necesita un usuario al organizar un viaje en Granada. Para ello hemos realizado un exhaustivo análisis de como vamos a diseñar y elaborar nuestra aplicación.
 ![photo_2021-04-08_16-14-55](https://user-images.githubusercontent.com/45092820/114042302-99013e80-9885-11eb-874e-3d0b827275e7.jpg)
 
 
@@ -17,12 +18,18 @@ La aplicación abarcará cuatro vertientes:
 
 
 ### TASK ANALYSIS
+
+En la siguiente tabla se identifican las tareas y su relevancia para los usuarios. Distinguimos entre cuatro grupos de usuario:
+- **Estándar**: Usuario registrado en la aplicación que puede usar prácticamente todas las opciones que ofrece la aplicación salvo las reservadas para primium.
+- **Premium**: Usuario registrado en la aplicación que puede usar todo lo que un estándar más entablar chat con otros usuarios premiums, escribir valoraciones y recibir notificaciones de ofertas exclusivas.
+- **Promotor**: Son los usuarios/entidades que ofrece los distintos servicios de la aplicación.
+
 🟢 **ALTO (3)
 🟠 MEDIO  (2)
 🔴 BAJO   (1)
 ❌ NO PUEDE**
 
-| GRUPOS DE USUARIO | ESTÁNDAR | PREMIUM | ESTABLECIMIENTOS | NO REGISTRADOS | Ranking |
+| GRUPOS DE USUARIO | ESTÁNDAR | PREMIUM | PROMOTOR | NO REGISTRADOS | Ranking |
 |-------------------|----------|---------|------------------|----------------|---------|
 | MODO NOCHE |  🟢  | 🟢  |  🟢  | 🟢  |12 |
 | CONSULTAR NOTIFICACIONES |  🟢  | 🟢 |  🟢  | 🟠  |11 |
@@ -35,7 +42,8 @@ La aplicación abarcará cuatro vertientes:
 | INFORMACIÓN DE CONTACTO   | 🟢 | 🟠  | 🟠 | 🟢|10 |
 | BUSCAR OCIO |  🟢  | 🟢  | 🔴  | 🟠  |10 |
 | CONSULTAR PROMOCIONES |  🟢  | 🟠  |  🟠  | 🟢  |10 |
-| SOLICITAR AYUDA |  🟠  | 🟠 |  🟢  |🟢  |10 |
+| CHAT ONLINE |  🟠  | 🟠 |  🟢  |🟢  |10 |
+| RECORDAR CONTRASEÑA   | 🟢 | 🟢 | 🟢 | ❌|9 |
 | LEER FQAs   | 🟠 | 🟠 | 🟠 | 🟢|9 |
 | CAMBIAR IDIOMA   | 🟢 | 🟠 | 🟢 | ❌|8 |
 | HACERSE PREMIUM |  🟢  | 🔴  | 🔴  | 🟠  |7 |
@@ -54,19 +62,24 @@ La aplicación abarcará cuatro vertientes:
 ## Labelling 
 | TÉRMINO | ICONO | SIGNIFICADO |
 |---------|-------|-------------|
-|FQAs|       |             |
-|About Us |       |             |
-|Settings|       |             |
-|Chat Online|       |             |
-|Catering|       |             |
-|Transport|       |             |
-|Spare time|       |             |
-|Stays|       |             |
+|FQAs|![4213426-about-description-help-info-information-notification_115427](https://user-images.githubusercontent.com/45092820/114897595-af714200-9e11-11eb-8980-a40202a511b4.png) |Zona de preguntas frecuentes. |
+|About Us |  ![istockphoto-1184299108-1024x1024](https://user-images.githubusercontent.com/45092820/114897530-9d8f9f00-9e11-11eb-933c-3b56ea61616b.jpg)  |Zona de contacto e información sobre la organización.|
+|Settings|   ![settings-cogwheel-button_icon-icons com_72559](https://user-images.githubusercontent.com/45092820/114897721-cadc4d00-9e11-11eb-9a33-26746435892f.png)
+    |Zona de ajustes.|
+|Chat Online|   ![network_society_communication_online_chat_icon_143342](https://user-images.githubusercontent.com/45092820/114897758-d760a580-9e11-11eb-8136-be9c1ba82906.png)
+    |Chat online de ayuda.|
+|Catering| ![-local-dining_90278](https://user-images.githubusercontent.com/45092820/114897826-e6dfee80-9e11-11eb-976b-f267eed1ad63.png)
+|Zona de búsqueda de ofertas de restauración.|
+|Transport|       |Zona de búsqueda de ofertas de movilidad.|
+|Spare time|       |Zona de búsqueda de actividades de entretenimiento.||
+|Stays|       |Zona de búsqueda de ofertas para dormir.||
 |Users |       |Acceder al área de usuarios.|
-|Up Premium|       |             |
+|Up Premium|       |Usuario que se suscribe al programa premium de la aplicación.|
 |Sign up|       | Registrarse en la app.            |
 |Sign in|       |Iniciar sesión en la app.|
 |Sign out|      | Cerrar sesión en la app.|
+
+>>> https://icon-icons.com/es/buscar/iconos/?filtro=transport
 ### Prototipo Lo-FI Wireframe 
 
 
