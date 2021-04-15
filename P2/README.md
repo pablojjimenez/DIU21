@@ -79,7 +79,7 @@ En la siguiente tabla se identifican las tareas y su relevancia para los usuario
 |Sign in|       |Iniciar sesión en la app.|
 |Sign out|      | Cerrar sesión en la app.|
 
->>> https://icon-icons.com/es/buscar/iconos/?filtro=transport
+>> https://icon-icons.com/es/buscar/iconos/?filtro=transport
 ### Prototipo Lo-FI Wireframe 
 
 
