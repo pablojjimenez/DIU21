@@ -61,7 +61,12 @@ La aplicación abarcará cuatro vertientes:
 |Catering|       |             |
 |Transport|       |             |
 |Spare time|       |             |
-
+|Stays|       |             |
+|Users |       |Acceder al área de usuarios.|
+|Up Premium|       |             |
+|Sign up|       | Registrarse en la app.            |
+|Sign in|       |Iniciar sesión en la app.|
+|Sign out|      | Cerrar sesión en la app.|
 ### Prototipo Lo-FI Wireframe 
 
 
