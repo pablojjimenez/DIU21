@@ -32,13 +32,18 @@ La aplicación abarcará cuatro vertientes:
 | **BUSCAR ESTANCIA**   |  🟢  | 🟢  | 🔴  | 🟠  | 10 |
 | **BUSCAR RESTAURACIÓN**|  🟢  | 🟢  | 🔴  | 🟠  |10 |
 | **BUSCAR TRANSPORTE**|  🟢  | 🟢  | 🔴  | 🟠  |10 |
+| INFORMACIÓN DE CONTACTO   | 🟢 | 🟠  | 🟠 | 🟢|10 |
 | BUSCAR OCIO |  🟢  | 🟢  | 🔴  | 🟠  |10 |
 | CONSULTAR PROMOCIONES |  🟢  | 🟠  |  🟠  | 🟢  |10 |
 | SOLICITAR AYUDA |  🟠  | 🟠 |  🟢  |🟢  |10 |
+| LEER FQAs   | 🟠 | 🟠 | 🟠 | 🟢|9 |
+| CAMBIAR IDIOMA   | 🟢 | 🟠 | 🟢 | ❌|8 |
 | HACERSE PREMIUM |  🟢  | 🔴  | 🔴  | 🟠  |7 |
 | **CREAR ACTIVIDAD**  | ❌ | ❌ | 🟢 | ❌|3 |
-| BORRAR ACTIVIDAD | ❌ | ❌ | 🟠 | ❌|2 |
 | ALTA PROMOCIÓN   | ❌ | ❌ | 🟢 | ❌|3 |
+| REGISTRARSE   | ❌ | ❌ | ❌ | 🟢|3 |
+| BAJA PROMOCIÓN   | ❌ | ❌ | 🟢 | ❌|3 |
+| BORRAR ACTIVIDAD | ❌ | ❌ | 🟠 | ❌|2 |
 | BAJO PROMOCIÓN   | ❌ | ❌ | 🟠 | ❌|2 |
 
 
