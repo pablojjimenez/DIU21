@@ -17,29 +17,29 @@ La aplicación abarcará cuatro vertientes:
 
 
 ### TASK ANALYSIS
-🟢 **ALTO
-🟠 MEDIO
-🔴 ABAJO PSOE
+🟢 **ALTO (3)
+🟠 MEDIO  (2)
+🔴 BAJO   (1)
 ❌ NO PUEDE**
 
-| GRUPOS DE USUARIO | ESTÁNDAR | PREMIUM | ESTABLECIMIENTOS | NO REGISTRADOS |
-|-------------------|----------|---------|------------------|----------------|
-| INICIAR SESIÓN    |  🟢  | 🟢  | 🟢  | 🔴  | 
-| BUSCAR ESTANCIA   |  🟢  | 🟢  | 🔴  | 🟠  |
-| BUSCAR RESTAURACIÓN|  🟢  | 🟢  | 🔴  | 🟠  |
-| BUSCAR TRANSPORTE|  🟢  | 🟢  | 🔴  | 🟠  |
-| BUSCAR OCIO |  🟢  | 🟢  | 🔴  | 🟠  |
-| HACERSE PREMIUM |  🟢  | 🔴  | 🔴  | 🟠  |
-| PREGUNTAR OTROS USUARIOS |  🟢  | 🟢  | 🔴  | 🟢  |
-| MODO NOCHE |  🟢  | 🟢  |  🟢  | 🟢  |
-| CONSULTAR PROMOCIONES |  🟢  | 🟠  |  🟠  | 🟢  |
-| CONSULTAR NOTIFICACIONES |  🟢  | 🟢 |  🟢  | 🟠  |
-| SOLICITAR AYUDA |  🟠  | 🟠 |  🟢  |🟢  |
-| CONSULTAR CALENDARIO |  🟢  | 🟢 |  🟢  | 🔴  |
-| CREAR ACTIVIDAD  | ❌ | ❌ | 🟢 | ❌|
-| BORRAR ACTIVIDAD | ❌ | ❌ | 🟠 | ❌|
-| ALTA PROMOCIÓN   | ❌ | ❌ | 🟢 | ❌|
-| BAJO PROMOCIÓN   | ❌ | ❌ | 🟠 | ❌|
+| GRUPOS DE USUARIO | ESTÁNDAR | PREMIUM | ESTABLECIMIENTOS | NO REGISTRADOS | Ranking |
+|-------------------|----------|---------|------------------|----------------|---------|
+| MODO NOCHE |  🟢  | 🟢  |  🟢  | 🟢  |12 |
+| CONSULTAR NOTIFICACIONES |  🟢  | 🟢 |  🟢  | 🟠  |11 |
+| INICIAR SESIÓN    |  🟢  | 🟢  | 🟢  | 🔴  | 10 |
+| PREGUNTAR OTROS USUARIOS |  🟢  | 🟢  | 🔴  | 🟢  |10 |
+| CONSULTAR CALENDARIO |  🟢  | 🟢 |  🟢  | 🔴  |10 |
+| **BUSCAR ESTANCIA**   |  🟢  | 🟢  | 🔴  | 🟠  | 10 |
+| **BUSCAR RESTAURACIÓN**|  🟢  | 🟢  | 🔴  | 🟠  |10 |
+| **BUSCAR TRANSPORTE**|  🟢  | 🟢  | 🔴  | 🟠  |10 |
+| BUSCAR OCIO |  🟢  | 🟢  | 🔴  | 🟠  |10 |
+| CONSULTAR PROMOCIONES |  🟢  | 🟠  |  🟠  | 🟢  |10 |
+| SOLICITAR AYUDA |  🟠  | 🟠 |  🟢  |🟢  |10 |
+| HACERSE PREMIUM |  🟢  | 🔴  | 🔴  | 🟠  |7 |
+| **CREAR ACTIVIDAD**  | ❌ | ❌ | 🟢 | ❌|3 |
+| BORRAR ACTIVIDAD | ❌ | ❌ | 🟠 | ❌|2 |
+| ALTA PROMOCIÓN   | ❌ | ❌ | 🟢 | ❌|3 |
+| BAJO PROMOCIÓN   | ❌ | ❌ | 🟠 | ❌|2 |
 
 
 ### ARQUITECTURA DE INFORMACIÓN
