@@ -67,14 +67,14 @@ En la siguiente tabla se identifican las tareas y su relevancia para los usuario
 |Settings|  <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/settings.png" width="65">   |Zona de ajustes.|
 |Chat Online| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/chatonline.png" width="65"> |Chat online de ayuda.|
 |Catering| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/catering.png" width="65">    |Zona de búsqueda de ofertas de restauración.|
-|Transport|       |Zona de búsqueda de ofertas de movilidad.|
-|Spare time|       |Zona de búsqueda de actividades de entretenimiento.||
-|Stays|       |Zona de búsqueda de ofertas para dormir.||
-|Users |       |Acceder al área de usuarios.|
-|Up Premium|       |Usuario que se suscribe al programa premium de la aplicación.|
-|Sign up|       | Registrarse en la app.            |
-|Sign in|       |Iniciar sesión en la app.|
-|Sign out|      | Cerrar sesión en la app.|
+|Transport|   <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/transport.png" width="65" >    |Zona de búsqueda de ofertas de movilidad.|
+|Spare time| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/actividades.png" width="65"> |Zona de búsqueda de actividades de entretenimiento.||
+|Stays| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/estancia.png" width="65">|Zona de búsqueda de ofertas para dormir.||
+|Users |<img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/users.png" width="65">|Acceder al área de usuarios.|
+|Up To Premium|<img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/uppremium.png" width="65">|Usuario que se suscribe al programa premium de la aplicación.|
+|Sign up|<img src="" width="65"> | Registrarse en la app.            |
+|Sign in|<img src="" width="65"> |Iniciar sesión en la app.|
+|Logout|<img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/logout.png" width="65">| Cerrar sesión en la app.|
 
 >> https://icon-icons.com/es/buscar/iconos/?filtro=transport
 ### Prototipo Lo-FI Wireframe 
