@@ -62,7 +62,7 @@ En la siguiente tabla se identifican las tareas y su relevancia para los usuario
 ## Labelling 
 | TÉRMINO | ICONO | SIGNIFICADO |
 |---------|-------|-------------|
-|FQAs|![icono exclamacion](https://github.com/pablojj1808/DIU21/blob/master/P2/img/FQAs.png) |Zona de preguntas frecuentes. |
+|FQAs|![icono exclamacion](https://github.com/pablojj1808/DIU21/blob/master/P2/img/FQAs.png = 250x250) |Zona de preguntas frecuentes. |
 |About Us |  ![istockphoto-1184299108-1024x1024](https://user-images.githubusercontent.com/45092820/114897530-9d8f9f00-9e11-11eb-933c-3b56ea61616b.jpg)  |Zona de contacto e información sobre la organización.|
 |Settings|   ![settings-cogwheel-button_icon-icons com_72559](https://user-images.githubusercontent.com/45092820/114897721-cadc4d00-9e11-11eb-9a33-26746435892f.png)
     |Zona de ajustes.|
