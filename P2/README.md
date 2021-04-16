@@ -63,13 +63,10 @@ En la siguiente tabla se identifican las tareas y su relevancia para los usuario
 | TÉRMINO | ICONO | SIGNIFICADO |
 |---------|-------|-------------|
 |FQAs|<img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/FQAs.png" width="48">|Zona de preguntas frecuentes. |
-|About Us |  ![istockphoto-1184299108-1024x1024](https://user-images.githubusercontent.com/45092820/114897530-9d8f9f00-9e11-11eb-933c-3b56ea61616b.jpg)  |Zona de contacto e información sobre la organización.|
-|Settings|   ![settings-cogwheel-button_icon-icons com_72559](https://user-images.githubusercontent.com/45092820/114897721-cadc4d00-9e11-11eb-9a33-26746435892f.png)
-    |Zona de ajustes.|
-|Chat Online|   ![network_society_communication_online_chat_icon_143342](https://user-images.githubusercontent.com/45092820/114897758-d760a580-9e11-11eb-8136-be9c1ba82906.png)
-    |Chat online de ayuda.|
-|Catering| ![-local-dining_90278](https://user-images.githubusercontent.com/45092820/114897826-e6dfee80-9e11-11eb-976b-f267eed1ad63.png)
-|Zona de búsqueda de ofertas de restauración.|
+|About Us | <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/aboutus.png" width="48">   |Zona de contacto e información sobre la organización.|
+|Settings|  <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/settings.png" width="48">   |Zona de ajustes.|
+|Chat Online| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/chatonline.png" width="48"> |Chat online de ayuda.|
+|Catering| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/catering.png" width="48">    |Zona de búsqueda de ofertas de restauración.|
 |Transport|       |Zona de búsqueda de ofertas de movilidad.|
 |Spare time|       |Zona de búsqueda de actividades de entretenimiento.||
 |Stays|       |Zona de búsqueda de ofertas para dormir.||
