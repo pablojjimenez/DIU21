@@ -62,16 +62,16 @@ En la siguiente tabla se identifican las tareas y su relevancia para los usuario
 ## Labelling 
 | TÉRMINO | ICONO | SIGNIFICADO |
 |---------|-------|-------------|
-|FQAs|<img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/FQAs.png" width="80">|Zona de preguntas frecuentes. |
-|About Us | <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/aboutus.png" width="80">   |Zona de contacto e información sobre la organización.|
-|Settings|  <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/settings.png" width="80">   |Zona de ajustes.|
-|Chat Online| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/chatonline.png" width="80"> |Chat online de ayuda.|
-|Catering| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/catering.png" width="80">    |Zona de búsqueda de ofertas de restauración.|
-|Transport|   <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/transport.png" width="80" >    |Zona de búsqueda de ofertas de movilidad.|
-|Spare time| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/actividades.png" width="80"> |Zona de búsqueda de actividades de entretenimiento.||
-|Stays| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/estancia.png" width="80">|Zona de búsqueda de ofertas para dormir.||
-|Users |<img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/users.png" width="80">|Acceder al área de usuarios.|
-|Up To Premium|<img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/uppremium.png" width="80">|Usuario que se suscribe al programa premium de la aplicación.|
+|FQAs|<img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/FQAs.png"/>|Zona de preguntas frecuentes. |
+|About Us | <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/aboutus.png" width="80"/>   |Zona de contacto e información sobre la organización.|
+|Settings|  <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/settings.png" width="80"/>   |Zona de ajustes.|
+|Chat Online| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/chatonline.png" width="80"/> |Chat online de ayuda.|
+|Catering| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/catering.png" width="80"/>    |Zona de búsqueda de ofertas de restauración.|
+|Transport|   <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/transport.png" width="80" />    |Zona de búsqueda de ofertas de movilidad.|
+|Spare time| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/actividades.png" width="80"/> |Zona de búsqueda de actividades de entretenimiento.||
+|Stays| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/estancia.png" width="80"/>|Zona de búsqueda de ofertas para dormir.||
+|Users |<img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/users.png" width="80"/>|Acceder al área de usuarios.|
+|Up To Premium|<img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/uppremium.png" width="80"/>|Usuario que se suscribe al programa premium de la aplicación.|
 |Sign up|<img src="" width="65"> | Registrarse en la app.            |
 |Sign in|<img src="" width="65"> |Iniciar sesión en la app.|
 |Logout|<img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/logout.png" width="65">| Cerrar sesión en la app.|
