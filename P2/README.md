@@ -62,19 +62,27 @@ En la siguiente tabla se identifican las tareas y su relevancia para los usuario
 ## Labelling 
 | TÉRMINO | ICONO | SIGNIFICADO |
 |---------|-------|-------------|
-|FQAs|<img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/FQAs.png"/>|Zona de preguntas frecuentes. |
 |About Us | <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/aboutus.png" width="80"/>   |Zona de contacto e información sobre la organización.|
-|Settings|  <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/settings.png" width="80"/>   |Zona de ajustes.|
-|Chat Online| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/chatonline.png" width="80"/> |Chat online de ayuda.|
+|Calendar| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/calendario.png" width="80"/> |Zona de calendario personal con los eventos y actividades por fechas.|
 |Catering| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/catering.png" width="80"/>    |Zona de búsqueda de ofertas de restauración.|
-|Transport|   <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/transport.png" width="80" />    |Zona de búsqueda de ofertas de movilidad.|
-|Spare time| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/actividades.png" width="80"/> |Zona de búsqueda de actividades de entretenimiento.||
-|Stays| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/estancia.png" width="80"/>|Zona de búsqueda de ofertas para dormir.||
-|Users |<img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/users.png" width="80"/>|Acceder al área de usuarios.|
-|Up To Premium|<img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/uppremium.png" width="80"/>|Usuario que se suscribe al programa premium de la aplicación.|
-|Sign up|<img src="" width="65"> | Registrarse en la app.            |
-|Sign in|<img src="" width="65"> |Iniciar sesión en la app.|
+|Chat Online| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/chatonline.png" width="80"/> |Chat online de ayuda.|
+|Comments| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/comments.png" width="80"/> |Espacio de comentarios y valoraciones.|
+|Dark mode| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/darkmode.png" width="80"/> |Activación del modo oscuro.|
+|FQAs|<img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/FQAs.png" width="15em"/>|Zona de preguntas frecuentes. |
+|Friends| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/friends.png" width="80"/> |Zona de contactos y sugerencias de amigos.|
+|Language| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/language.png" width="80"/> |Opciones de idioma de la app.|
 |Logout|<img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/logout.png" width="65">| Cerrar sesión en la app.|
+|Mail| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/mail.png" width="80"/> |Zona de mensajes.|
+|Profile| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/usericon.png" width="80"/> |Area del perfil del usuario.|
+|Settings|  <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/settings.png" width="80"/>   |Zona de ajustes.|
+|Sign in|<img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/login.png" width="65"> |Iniciar sesión en la app.|
+|Sign up|<img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/register.png" width="65"> | Registrarse en la app.|
+|Stays| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/estancia.png" width="80"/>|Zona de búsqueda de ofertas para dormir.|
+|Spare time| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/actividades.png" width="80"/> |Zona de búsqueda de actividades de entretenimiento.|
+|Transport|   <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/transport.png" width="80" />|Zona de búsqueda de ofertas de movilidad.|
+|Trends| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/trends.png" width="80"/> |Actividades, sitios y diferentes sugerencias de mayor popularidad.|
+|Up To Premium|<img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/uppremium.png" width="80"/>|Usuario que se suscribe al programa premium de la aplicación.|
+|Users |<img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/users.png" width="80"/>|Acceder al área de usuarios.|
 
 >> https://icon-icons.com/es/buscar/iconos/?filtro=transport
 ### Prototipo Lo-FI Wireframe 
