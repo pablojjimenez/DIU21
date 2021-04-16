@@ -68,7 +68,7 @@ En la siguiente tabla se identifican las tareas y su relevancia para los usuario
 |Chat Online| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/chatonline.png" width="80"/> |Chat online de ayuda.|
 |Comments| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/comments.png" width="80"/> |Espacio de comentarios y valoraciones.|
 |Dark mode| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/darkmode.png" width="80"/> |Activación del modo oscuro.|
-|FQAs|<img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/FQAs.png" width="15em"/>|Zona de preguntas frecuentes. |
+|FQAs|<img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/FQAs.png" width="20em"/>|Zona de preguntas frecuentes. |
 |Friends| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/friends.png" width="80"/> |Zona de contactos y sugerencias de amigos.|
 |Language| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/language.png" width="80"/> |Opciones de idioma de la app.|
 |Logout|<img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/logout.png" width="65">| Cerrar sesión en la app.|
