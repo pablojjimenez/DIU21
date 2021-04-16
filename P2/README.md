@@ -62,11 +62,11 @@ En la siguiente tabla se identifican las tareas y su relevancia para los usuario
 ## Labelling 
 | TÉRMINO | ICONO | SIGNIFICADO |
 |---------|-------|-------------|
-|FQAs|<img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/FQAs.png" width="55">|Zona de preguntas frecuentes. |
-|About Us | <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/aboutus.png" width="55">   |Zona de contacto e información sobre la organización.|
-|Settings|  <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/settings.png" width="55">   |Zona de ajustes.|
-|Chat Online| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/chatonline.png" width="55"> |Chat online de ayuda.|
-|Catering| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/catering.png" width="55">    |Zona de búsqueda de ofertas de restauración.|
+|FQAs|<img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/FQAs.png" width="65">|Zona de preguntas frecuentes. |
+|About Us | <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/aboutus.png" width="65">   |Zona de contacto e información sobre la organización.|
+|Settings|  <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/settings.png" width="65">   |Zona de ajustes.|
+|Chat Online| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/chatonline.png" width="65"> |Chat online de ayuda.|
+|Catering| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/catering.png" width="65">    |Zona de búsqueda de ofertas de restauración.|
 |Transport|       |Zona de búsqueda de ofertas de movilidad.|
 |Spare time|       |Zona de búsqueda de actividades de entretenimiento.||
 |Stays|       |Zona de búsqueda de ofertas para dormir.||
