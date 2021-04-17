@@ -1,7 +1,7 @@
 ## DIU - Practica2, entregables
 
 ### Ideación 
-Estamos ideando **GrandTrip** para ser una plataforma que intgre todas las labores que necesita un usuario al organizar un viaje en Granada. Para ello hemos realizado un exhaustivo análisis de como vamos a diseñar y elaborar nuestra aplicación.
+Estamos ideando **GrandTrip** para ser una plataforma que integre todas las labores que necesita un usuario al organizar un viaje en Granada. Para ello hemos realizado un exhaustivo análisis de como vamos a diseñar y elaborar nuestra aplicación.
 ![photo_2021-04-08_16-14-55](https://user-images.githubusercontent.com/45092820/114042302-99013e80-9885-11eb-874e-3d0b827275e7.jpg)
 
 
@@ -56,7 +56,8 @@ En la siguiente tabla se identifican las tareas y su relevancia para los usuario
 
 
 ### ARQUITECTURA DE INFORMACIÓN
-Proponemos la siguiente organización lógica para la navegación y para los elementos de diseño. Para ello hemos realizado un SiteMap en el que hemos representado las funcionalidades de la aplicación así como la relación entre ellas y una tabla para representar el labelling del sitio, incluyendo los iconos que formarán parte del diseño.
+Proponemos la siguiente organización lógica para la navegación y para los elementos de diseño. Para ello hemos realizado un **SiteMap** en el que hemos representado las funcionalidades o servicios de la aplicación y las relaciones entre ellas. Mediante una tabla hemos representado el **labelling** del sitio, donde se inluyen los iconos que formarán parte del diseño y una breve descripción de su significado.
+
 ## SiteMap
 [![](https://mermaid.ink/img/eyJjb2RlIjoiZ3JhcGggVERcbkFbSG9tZV0gPT0-QihVc2VycylcbkFbSG9tZV0gPT0-QyhPZmVycylcbkFbSG9tZV0gPT0-RChBYm91dCBVcylcbkFbSG9tZV0gPT0-RShTZXR0aW5ncylcblxuXG5DIC0tPiBtKENhdGVyaW5nKVxubSAtLT4gYjIoQmFyKVxubSAtLT4gYjMoUHViKVxubSAtLT4gYjQoUmVzdGF1cmFudHMpXG5cblxuQyAtLT4gbTIoVHJhbnNwb3J0KVxubTIgLS0-IGcxKFNoYXJpbmcgY2FyKVxubTIgLS0-IGcyKEFWRSlcbm0yIC0tPiBnMyhCdXMpXG5DIC0tPiBtMyhTcGFyZSB0aW1lKVxuQyAtLT4gbTQoU3RheSlcbm00IC0tPiBnNChIb3RlbHMpXG5tNCAtLT4gZzUoU2hhcmluZyBmbGF0cylcblxubTMgLS0-IGExKEN5Y2xpbmcpXG5tMyAtLT4gYTIoUm91dGVzKVxubTMgLS0-IGEzKE11c2V1bXMpXG5tMyAtLT4gYTQoQ2luZW1hcylcbm0zIC0tPiBhNShNdXNpY2FsIGV2ZW50cylcblxuQiAtLT4gYihTaWduIHVwKVxuQiAtLT4gYyhTaWduIGluKVxuQiAtLT4gKihTaWduIG91dClcbmMgLS0-IFgoIClcbmIgLS0-IFhcblggLS0-IHooVXAgUHJlbWl1bSlcblggLS0-IGQoVXNlciBQcm9maWxlKVxuXG5EIC0tPiBoKENvbnRhY3QpXG5EIC0tPiBqKEhlbHApXG5EIC0tPiBwKEZRQXMpXG5cbkUgLS0-IGUoRGFyayBtb2RlKVxuRSAtLT4gdChMYW5ndWFnZSlcbkUgLS0-IGYoU3VwcG9ydClcbkUgLS0-IHEoSGVscClcbmogLS0-IC4oQ2hhdCBPbmxpbmUpXG5kIC0tPiAubShNeSBDYXRlcmluZylcbmQgLS0-IC55KE15IFRyYW5zcG9ydClcbmQgLS0-IC5mKE15IHNwYXJlIHRpbWUpXG5kIC0tPiAucShNeSBTdGF5cylcbi5tIC0tPiBtXG4ueSAtLT4gbTJcbi5mIC0tPiBtM1xuLnEgLS0-IG00IiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQifSwidXBkYXRlRWRpdG9yIjpmYWxzZX0)](https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbkFbSG9tZV0gPT0-QihVc2VycylcbkFbSG9tZV0gPT0-QyhPZmVycylcbkFbSG9tZV0gPT0-RChBYm91dCBVcylcbkFbSG9tZV0gPT0-RShTZXR0aW5ncylcblxuXG5DIC0tPiBtKENhdGVyaW5nKVxubSAtLT4gYjIoQmFyKVxubSAtLT4gYjMoUHViKVxubSAtLT4gYjQoUmVzdGF1cmFudHMpXG5cblxuQyAtLT4gbTIoVHJhbnNwb3J0KVxubTIgLS0-IGcxKFNoYXJpbmcgY2FyKVxubTIgLS0-IGcyKEFWRSlcbm0yIC0tPiBnMyhCdXMpXG5DIC0tPiBtMyhTcGFyZSB0aW1lKVxuQyAtLT4gbTQoU3RheSlcbm00IC0tPiBnNChIb3RlbHMpXG5tNCAtLT4gZzUoU2hhcmluZyBmbGF0cylcblxubTMgLS0-IGExKEN5Y2xpbmcpXG5tMyAtLT4gYTIoUm91dGVzKVxubTMgLS0-IGEzKE11c2V1bXMpXG5tMyAtLT4gYTQoQ2luZW1hcylcbm0zIC0tPiBhNShNdXNpY2FsIGV2ZW50cylcblxuQiAtLT4gYihTaWduIHVwKVxuQiAtLT4gYyhTaWduIGluKVxuQiAtLT4gKihTaWduIG91dClcbmMgLS0-IFgoIClcbmIgLS0-IFhcblggLS0-IHooVXAgUHJlbWl1bSlcblggLS0-IGQoVXNlciBQcm9maWxlKVxuXG5EIC0tPiBoKENvbnRhY3QpXG5EIC0tPiBqKEhlbHApXG5EIC0tPiBwKEZRQXMpXG5cbkUgLS0-IGUoRGFyayBtb2RlKVxuRSAtLT4gdChMYW5ndWFnZSlcbkUgLS0-IGYoU3VwcG9ydClcbkUgLS0-IHEoSGVscClcbmogLS0-IC4oQ2hhdCBPbmxpbmUpXG5kIC0tPiAubShNeSBDYXRlcmluZylcbmQgLS0-IC55KE15IFRyYW5zcG9ydClcbmQgLS0-IC5mKE15IHNwYXJlIHRpbWUpXG5kIC0tPiAucShNeSBTdGF5cylcbi5tIC0tPiBtXG4ueSAtLT4gbTJcbi5mIC0tPiBtM1xuLnEgLS0-IG00IiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQifSwidXBkYXRlRWRpdG9yIjpmYWxzZX0)
 
@@ -86,21 +87,28 @@ Proponemos la siguiente organización lógica para la navegación y para los ele
 |Users |<img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/users.png" width="80"/>|Acceder al área de usuarios.|
 
 ### Prototipo Lo-FI Wireframe 
+A continuación se incluyen los bocetos Lo-Fi de las pantallas más relevantes de la interfaz.
+
 ## Sign up 
  <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/SignUp.png"/>
+ 
 ## Sign in
  <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/LogIn.png"/>
+ 
 ## Home
  <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Home.png"/>
+ 
 ## Options menu
  <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Opcions.png"/>
+ 
 ## Activity
  <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Element.png"/>
+ 
 ## User
  <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/User.png"/>
+ 
 ## Settings
  <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Settings.png"/>
-
 
 ### Conclusiones  
 (incluye valoración de esta etapa)
