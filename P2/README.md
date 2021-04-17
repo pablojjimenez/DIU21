@@ -87,19 +87,19 @@ Proponemos la siguiente organización lógica para la navegación y para los ele
 
 ### Prototipo Lo-FI Wireframe 
 ## Sign up 
- <img src=""/>
+ <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/SignUp.png"/>
 ## Sign in
- <img src=""/>
+ <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/LogIn.png"/>
 ## Home
- <img src=""/>
+ <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Home.png"/>
 ## Options menu
- <img src=""/>
+ <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Opcions.png"/>
 ## Activity
- <img src=""/>
+ <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Element.png"/>
 ## User
- <img src=""/>
+ <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/User.png"/>
 ## Settings
- <img src=""/>
+ <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Settings.png"/>
 
 
 ### Conclusiones  
