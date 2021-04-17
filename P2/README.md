@@ -71,6 +71,7 @@ Proponemos la siguiente organización lógica para la navegación y para los ele
 |Comments| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/comments.png" width="80"/> |Espacio de comentarios y valoraciones.|
 |Dark mode| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/darkmode.png" width="80"/> |Activación del modo oscuro.|
 |FQAs|<img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/FQAs.png" width="80"/>|Zona de preguntas frecuentes. |
+|Highlights|<img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/destacado.png" width="80"/>|Zona de elementos destacados. |
 |Friends| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/friends.png" width="80"/> |Zona de contactos y sugerencias de amigos.|
 |Language| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/language.png" width="80"/> |Opciones de idioma de la app.|
 |Logout|<img src="https://github.com/pablojj1808/DIU21/blob/master/P2/img/logout.png" width="65">| Cerrar sesión en la app.|
