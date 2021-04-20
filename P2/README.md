@@ -2,7 +2,7 @@
 
 ### Ideación 
 Estamos ideando **GrandTrip** para ser una plataforma que integre todas las labores que necesita un usuario al organizar un viaje en Granada. Para ello hemos realizado un exhaustivo análisis de como vamos a diseñar y elaborar nuestra aplicación.
-![photo_2021-04-08_16-14-55](https://user-images.githubusercontent.com/45092820/114042302-99013e80-9885-11eb-874e-3d0b827275e7.jpg)
+![photo_2021-04-08_16-14-55](https://github.com/pablojj1808/DIU21/blob/master/P2/img/feedbackcapturegrid.png)
 
 
 
