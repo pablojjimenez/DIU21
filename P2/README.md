@@ -112,4 +112,4 @@ A continuación se incluyen los bocetos Lo-Fi de las pantallas más relevantes d
  <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Settings.png"/>
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
+Nos ha parecido una práctica muy pertinente pues es la forma ideal de comenzar  la concepción de un producto. Aunque aún puede haber líneas de diseño que no quedan claras y pueden ir definiendose más adelante.
