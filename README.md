@@ -5,11 +5,11 @@ Grupo: DIU1_PIÑA🍍.  Curso: 2020/21
 Updated: 8/2/2021
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+GrandTrip
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Estamos ideando GrandTrip para ser una plataforma que integre todas las labores que necesita un usuario al organizar un viaje en Granada. Para ello hemos realizado un exhaustivo análisis de como vamos a diseñar y elaborar nuestra aplicación. 
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
