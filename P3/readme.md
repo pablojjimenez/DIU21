@@ -14,6 +14,8 @@ Es una tipografía sencilla, clara con facilidad para distinguir. Es serif como 
 <img src="https://github.com/pablojj1808/DIU21/blob/master/P3/MoodboardImg/fuente1.png"/>
 <img src="https://github.com/pablojj1808/DIU21/blob/master/P3/MoodboardImg/fuente2.png"/>
 
+### Iconos
+
 ## Landing Page
 
 
