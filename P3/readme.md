@@ -28,6 +28,8 @@ Es una tipografía sencilla, clara con facilidad para distinguir. Es serif como 
 
 
 ## Landing Page
+Página home de nuestra plataforma. Primer boceto.
+![Captura de pantalla 2021-04-29 a las 19 05 07](https://user-images.githubusercontent.com/45092820/116590267-d48ba780-a91d-11eb-8377-66f6912c074c.png)
 
 
 ## Mockup: LAYOUT HI-FI
