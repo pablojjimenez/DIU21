@@ -4,7 +4,7 @@
 ### Logotipo
 
 ### Paleta de colores
-![imagen](https://user-images.githubusercontent.com/45092820/116560020-44d80000-a901-11eb-81b8-c8e112016e2d.png)
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/MoodboardImg/colorscheme1.png"/>
 
 ### Tipografia
  <img src="https://github.com/pablojj1808/DIU21/blob/master/P3/MoodboardImg/fuente1.png"/>
