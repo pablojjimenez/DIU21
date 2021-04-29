@@ -4,11 +4,11 @@
 ### Logotipo
 
 ### Paleta de colores
-<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/MoodboardImg/colorscheme1.png"/>
+<CENTER><img src="https://github.com/pablojj1808/DIU21/blob/master/P3/MoodboardImg/colorscheme1.png"/></CENTER>
 
 ### Tipografia
- <img src="https://github.com/pablojj1808/DIU21/blob/master/P3/MoodboardImg/fuente1.png"/>
- <img src="https://github.com/pablojj1808/DIU21/blob/master/P3/MoodboardImg/fuente2.png"/>
+<CENTER><img src="https://github.com/pablojj1808/DIU21/blob/master/P3/MoodboardImg/fuente1.png"/></CENTER>
+<CENTER><img src="https://github.com/pablojj1808/DIU21/blob/master/P3/MoodboardImg/fuente2.png"/></CENTER>
 
 ## Landing Page
 
