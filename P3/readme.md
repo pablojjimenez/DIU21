@@ -4,8 +4,7 @@
 ### Logotipo
 
 ### Paleta de colores
-![Color Hunt Palette 264684](https://user-images.githubusercontent.com/45092820/116543820-a2168600-a8ee-11eb-9b9b-e7dbf9c955e9.png)
-
+![imagen](https://user-images.githubusercontent.com/45092820/116560020-44d80000-a901-11eb-81b8-c8e112016e2d.png)
 
 ### Tipografia
 
