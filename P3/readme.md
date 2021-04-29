@@ -16,6 +16,7 @@ Es una tipografía sencilla, clara con facilidad para distinguir. Es serif como 
 
 ### Iconos
 Tomando como referencia las guías de diseño de Google (Material Design) hemos decidido usar son iconos ya que están suficientemente probados y estudiados.
+
 ![Captura de pantalla 2021-04-29 a las 19 07 33](https://user-images.githubusercontent.com/45092820/116590785-714e4500-a91e-11eb-8257-f9d77c402c27.png)
 
 
