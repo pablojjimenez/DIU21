@@ -4,6 +4,7 @@
 ### Logotipo
 
 ### Paleta de colores
+Hemos elegido esta paleta de colores porque sugieren tranquilidad y seguridad. Creemos que es lo ideal a transmitir cuando se está organizando un viaje.
 <img src="https://github.com/pablojj1808/DIU21/blob/master/P3/MoodboardImg/colorscheme1.png"/>
 
 ### Tipografia
