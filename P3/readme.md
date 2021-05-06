@@ -33,7 +33,7 @@ Tomando como referencia las guías de diseño de Google (Material Design) hemos 
 
 ## Landing Page
 Página home de nuestra plataforma. Primer boceto.
-![Captura de pantalla 2021-04-29 a las 19 05 07](https://user-images.githubusercontent.com/45092820/116590267-d48ba780-a91d-11eb-8377-66f6912c074c.png)
+![imagen](https://user-images.githubusercontent.com/45092820/117320227-4fa80d00-ae8c-11eb-96fb-89c7c57688be.png)
 
 
 ## Mockup: LAYOUT HI-FI
