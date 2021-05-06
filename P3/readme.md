@@ -15,7 +15,7 @@ Es una tipografía sencilla, clara con facilidad para distinguir. Es serif como 
 <img src="https://github.com/pablojj1808/DIU21/blob/master/P3/MoodboardImg/fuente2.png"/>
 
 ### Iconos
-Tomando como referencia las guías de diseño de Google (Material Design) hemos decidido usar son iconos ya que están suficientemente probados y estudiados.
+Tomando como referencia las guías de diseño de Google (Material Design) hemos decidido usar son iconos ya que están suficientemente probados y estudiados. [Aquí más](https://fonts.google.com/icons?selected=Material+Icons)
 
 ![Captura de pantalla 2021-04-29 a las 19 07 33](https://user-images.githubusercontent.com/45092820/116590785-714e4500-a91e-11eb-8257-f9d77c402c27.png)
 
