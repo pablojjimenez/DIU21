@@ -11,8 +11,8 @@ Descripción:
 
 **Estamos ideando GrandTrip para ser una plataforma que integre todas las labores que necesita un usuario al organizar un viaje en Granada. Para ello hemos realizado un exhaustivo análisis de como vamos a diseñar y elaborar nuestra aplicación.**
 
-Logotipo: 
-
+Identidad visual: 
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Logo/LogoGT2_Blanco.png" width="100px">
 
 Miembros
  * :bust_in_silhouette:   [Raquel Molina Reche](https://github.com/rmr00)             :octocat:     
