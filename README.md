@@ -5,14 +5,14 @@ Grupo: DIU1_PIÑA🍍.  Curso: 2020/21
 Updated: 8/2/2021
 
 Proyecto: 
-GrandTrip
+**GrandTrip**
 
 Descripción: 
 
-Estamos ideando GrandTrip para ser una plataforma que integre todas las labores que necesita un usuario al organizar un viaje en Granada. Para ello hemos realizado un exhaustivo análisis de como vamos a diseñar y elaborar nuestra aplicación. 
+**Estamos ideando GrandTrip para ser una plataforma que integre todas las labores que necesita un usuario al organizar un viaje en Granada. Para ello hemos realizado un exhaustivo análisis de como vamos a diseñar y elaborar nuestra aplicación.**
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+
 
 Miembros
  * :bust_in_silhouette:   [Raquel Molina Reche](https://github.com/rmr00)             :octocat:     
