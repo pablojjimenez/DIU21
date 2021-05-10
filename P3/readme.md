@@ -1,3 +1,5 @@
+![11](https://user-images.githubusercontent.com/45092820/117711930-fb769300-b1d3-11eb-8f7b-0594ddf3483e.png)
+![23](https://user-images.githubusercontent.com/45092820/117711935-fd405680-b1d3-11eb-94b9-9f18edc165a4.png)
 # DIU - Practica 3, entregables
 
 ## Moodboard (diseño visual + logotipo)   
@@ -48,6 +50,10 @@ El mockup está disponible en forma de web en este [enlace](www.google.es).
 ![8](https://user-images.githubusercontent.com/45092820/117711540-aa669f00-b1d3-11eb-997d-221bc94848e5.png)
 ![9](https://user-images.githubusercontent.com/45092820/117711552-ad618f80-b1d3-11eb-8700-14deba0f7029.png)
 ![10](https://user-images.githubusercontent.com/45092820/117711557-af2b5300-b1d3-11eb-86ac-43ba45fcab2c.png)
+![11](https://user-images.githubusercontent.com/45092820/117711955-03363780-b1d4-11eb-8a22-48540ed4f376.png)
+![23](https://user-images.githubusercontent.com/45092820/117711959-04fffb00-b1d4-11eb-8e06-2250c5b3058c.png)
+![13](https://user-images.githubusercontent.com/45092820/117711966-07625500-b1d4-11eb-861a-4594d09c63f0.png)
+![14](https://user-images.githubusercontent.com/45092820/117711970-092c1880-b1d4-11eb-8c26-11041baf50a4.png)
 
 ## Documentación: Publicación del Case Study
 
