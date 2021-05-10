@@ -13,6 +13,11 @@ Descripción:
 
 Identidad visual: 
 <img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Logo/LogoGT2_Blanco.png" width="100px">
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Logo/NombreGT_Blanco.png" width="100px">
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Logo/LogoGT.png" width="100px">
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Logo/LogoV2_Blanco.png" width="100px">
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Logo/NombreGT.png" width="100px">
+
 
 Miembros
  * :bust_in_silhouette:   [Raquel Molina Reche](https://github.com/rmr00)             :octocat:     
