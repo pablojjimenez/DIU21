@@ -1,5 +1,3 @@
-![11](https://user-images.githubusercontent.com/45092820/117711930-fb769300-b1d3-11eb-8f7b-0594ddf3483e.png)
-![23](https://user-images.githubusercontent.com/45092820/117711935-fd405680-b1d3-11eb-94b9-9f18edc165a4.png)
 # DIU - Practica 3, entregables
 
 ## Moodboard (diseño visual + logotipo)   
