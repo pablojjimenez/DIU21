@@ -54,7 +54,5 @@ El mockup está disponible en forma de web en este [enlace](www.google.es).
 ![14](https://user-images.githubusercontent.com/45092820/117711970-092c1880-b1d4-11eb-8c26-11041baf50a4.png)
 
 ## Documentación: Publicación del Case Study
+Nos ha gustado mucho la práctica y nos ha parecido muy rica en conocimientos. Esta práctica nos ha permitido concretar todos los planteamientos más abstractos que teníamos en las anteriores. La aplicación de nuestras _guidelines_ de diseño así como la aplicación de nuestra propia identidad visual nos permite tener casi un producto mínimo viable del diseño de nuestro sistema.
 
-
-(incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
- 
