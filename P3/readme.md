@@ -10,7 +10,7 @@ Con respecto a la parte del nombre se usa un texto llano con una separación ent
 
 Además hemos creado diferentes versiones pero todas manteniendo la misma estética, por ejemplo únicamente con el nombre para poder añadirlo en diferentes lugares de la página.
 
-| <img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Logo/LogoGT2_Blanco.png" width="100px">| <img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Logo/NombreGT_Blanco.png" width="100px">| <img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Logo/LogoGT.png" width="100px">| <img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Logo/LogoV2_Blanco.png" width="100px">| <img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Logo/NombreGT.png" width="100px">|
+| <img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Logo/LogoGT2_Blanco.png" width="200px">| <img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Logo/NombreGT_Blanco.png" width="200px">| <img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Logo/LogoGT.png" width="200px">| <img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Logo/LogoV2_Blanco.png" width="200px">| <img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Logo/NombreGT.png" width="200px">|
 ----------|---------|---------|--------|-----------|
 ### Paleta de colores
 Hemos elegido esta paleta de colores porque sugieren tranquilidad y seguridad. Creemos que es lo ideal a transmitir cuando se está organizando un viaje. La combinación de estos colores otorga tambien una sensación de modernidad y cohesión que ya ha sido probada en aplicaciones populares. El hecho de que no sea una gama continuista en el tono del color da sensación esqueumorfista.
@@ -64,7 +64,7 @@ El mockup está disponible en forma de web en este [enlace](www.google.es).
 
 #### Inicio
 
-<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Inicio.png" width="100px">
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Inicio.png" width="100%">
 
 #### Información Excursiones
 
