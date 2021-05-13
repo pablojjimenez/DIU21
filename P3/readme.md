@@ -68,58 +68,58 @@ El mockup está disponible en forma de web en este [enlace](www.google.es).
 
 #### Información Excursiones
 
-<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Excursiones.png" width="100px">
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Excursiones.png" width="100%">
 
 #### Información Playas
 
-<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Playas.png" width="100px">
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Playas.png" width="100%">
 
 #### Información de la sierra
 
-<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Sierra.png" width="100px">
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Sierra.png" width="100%">
 
 #### Registro
 
-<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Registrar.png" width="100px">
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Registrar.png" width="100%">
 
 #### Iniciar Sesion
 Tiene dos modos, o bien desde la página de registro(primera imagen) o bien desde las funcionalidades de usuario(segunda Imagen).
 
-<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/IniciarSesion.png" width="100px">
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/IniciarSesion.png" width="100%">
 
-<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/IniciarSesion2.png" width="100px">
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/IniciarSesion2.png" width="100%">
 
 #### Estancias
 
-<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Estancias.png" width="100px">
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Estancias.png" width="100%">
 
 #### Estancia concreta
 
-<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Hotel.png" width="100px">
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Hotel.png" width="100%">
 
 #### Reserva
 
-<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Reserva.png" width="100px">
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Reserva.png" width="100%">
 
 #### Restauracion
 
-<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Restauracion.png" width="100px">
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Restauracion.png" width="100%">
 
 #### Transporte
 
-<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Transporte.png" width="100px">
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Transporte.png" width="100%">
 
 #### Ocio
 
-<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Ocio.png" width="100px">
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Ocio.png" width="100%">
 
 #### Soporte
 
-<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Soporte.png" width="100px">
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Soporte.png" width="100%">
 
 #### Sobre Nosotros
 
-<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/SobreNosotros.png" width="100px">
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/SobreNosotros.png" width="100%">
 
 ## Documentación: Publicación del Case Study
 Nos ha gustado mucho la práctica y nos ha parecido muy rica en conocimientos. Esta práctica nos ha permitido concretar todos los planteamientos más abstractos que teníamos en las anteriores. La aplicación de nuestras _guidelines_ de diseño así como la aplicación de nuestra propia identidad visual nos permite tener casi un producto mínimo viable del diseño de nuestro sistema.
