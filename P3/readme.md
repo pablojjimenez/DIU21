@@ -46,7 +46,7 @@ Página home de nuestra plataforma. Primer boceto.
 
 
 ## Mockup: LAYOUT HI-FI
-El mockup está disponible en forma de web en este [enlace](www.google.es).
+El mockup está disponible en forma de web en este [enlace](https://rmr00.github.io/DIU-Layouts/index.html).
 
 #### Inicio
 
