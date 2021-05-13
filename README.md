@@ -134,11 +134,8 @@ Término | Significado
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
+![photo_2021-05-13_17-49-37](https://user-images.githubusercontent.com/45092820/118187211-f2d5c500-b43e-11eb-845d-c1d54c719efe.jpg)
 
-
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
