@@ -20,8 +20,8 @@ Hemos elegido esta paleta de colores porque sugieren tranquilidad y seguridad. C
 ### Tipografia
 Es una tipografía sencilla, clara con facilidad para distinguir. Es serif como marcan las pautas de diseño de Google, Material Design.
 
-| <img src="https://github.com/pablojj1808/DIU21/blob/master/P3/MoodboardImg/fuente1.png"/> | <img src="https://github.com/pablojj1808/DIU21/blob/master/P3/MoodboardImg/fuente2.png"/> |
----------------|----------------|
+| <img src="https://github.com/pablojj1808/DIU21/blob/master/P3/MoodboardImg/fuente1.png"/> | |<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/MoodboardImg/fuente2.png"/> |
+---------------|----------------|----------------|
 
 ### Iconos
 Tomando como referencia las guías de diseño de Google (Material Design) hemos decidido usar son iconos ya que están suficientemente probados y estudiados. [Aquí más](https://fonts.google.com/icons?selected=Material+Icons)
