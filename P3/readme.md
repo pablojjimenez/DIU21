@@ -2,8 +2,16 @@
 
 ## Moodboard (diseño visual + logotipo)   
 ### Logotipo
-| Identidad visual: | <img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Logo/LogoGT2_Blanco.png" width="100px">| <img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Logo/NombreGT_Blanco.png" width="100px">| <img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Logo/LogoGT.png" width="100px">| <img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Logo/LogoV2_Blanco.png" width="100px">| <img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Logo/NombreGT.png" width="100px">|
-|------------------|----------|---------|---------|--------|-----------|
+Para el diseño del logotipo teníamos claro que buscábamos algo que fuera moderno, no muy cargado pero que a su vez fuera representativo para nuestra aplicación. 
+
+Por ello decidimos generar un logotipo en el que el color lo da una “mancha de pintura” basada en un degradado de colores pastel, rodeada de un hexágono para definir un poco el contorno, lo que le da ese toque chic que buscamos. Y para caracterizar la temática de organización de viajes en Granada incluimos sobre el color el dibujo del  Patio de los Arrayanes de la Alhambra.
+
+Con respecto a la parte del nombre se usa un texto llano con una separación entre las letras más amplia aportando sencillez ,pero la primera letra (“g”) de tipo caligráfica lo hace especial a su vez. 
+
+Además hemos creado diferentes versiones pero todas manteniendo la misma estética, por ejemplo únicamente con el nombre para poder añadirlo en diferentes lugares de la página.
+
+| <img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Logo/LogoGT2_Blanco.png" width="100px">| <img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Logo/NombreGT_Blanco.png" width="100px">| <img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Logo/LogoGT.png" width="100px">| <img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Logo/LogoV2_Blanco.png" width="100px">| <img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Logo/NombreGT.png" width="100px">|
+----------|---------|---------|--------|-----------|
 ### Paleta de colores
 Hemos elegido esta paleta de colores porque sugieren tranquilidad y seguridad. Creemos que es lo ideal a transmitir cuando se está organizando un viaje. La combinación de estos colores otorga tambien una sensación de modernidad y cohesión que ya ha sido probada en aplicaciones populares. El hecho de que no sea una gama continuista en el tono del color da sensación esqueumorfista.
 
@@ -53,6 +61,65 @@ El mockup está disponible en forma de web en este [enlace](www.google.es).
 ![23](https://user-images.githubusercontent.com/45092820/117711959-04fffb00-b1d4-11eb-8e06-2250c5b3058c.png)
 ![13](https://user-images.githubusercontent.com/45092820/117711966-07625500-b1d4-11eb-861a-4594d09c63f0.png)
 ![14](https://user-images.githubusercontent.com/45092820/117711970-092c1880-b1d4-11eb-8c26-11041baf50a4.png)
+
+#### Inicio
+
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Inicio.png" width="100px">
+
+#### Información Excursiones
+
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Excursiones.png" width="100px">
+
+#### Información Playas
+
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Playas.png" width="100px">
+
+#### Información de la sierra
+
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Sierra.png" width="100px">
+
+#### Registro
+
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Registrar.png" width="100px">
+
+#### Iniciar Sesion
+Tiene dos modos, o bien desde la página de registro(primera imagen) o bien desde las funcionalidades de usuario(segunda Imagen).
+
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/IniciarSesion.png" width="100px">
+
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/IniciarSesion2.png" width="100px">
+
+#### Estancias
+
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Estancias.png" width="100px">
+
+#### Estancia concreta
+
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Hotel.png" width="100px">
+
+#### Reserva
+
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Reserva.png" width="100px">
+
+#### Restauracion
+
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Restauracion.png" width="100px">
+
+#### Transporte
+
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Transporte.png" width="100px">
+
+#### Ocio
+
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Ocio.png" width="100px">
+
+#### Soporte
+
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Soporte.png" width="100px">
+
+#### Sobre Nosotros
+
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/SobreNosotros.png" width="100px">
 
 ## Documentación: Publicación del Case Study
 Nos ha gustado mucho la práctica y nos ha parecido muy rica en conocimientos. Esta práctica nos ha permitido concretar todos los planteamientos más abstractos que teníamos en las anteriores. La aplicación de nuestras _guidelines_ de diseño así como la aplicación de nuestra propia identidad visual nos permite tener casi un producto mínimo viable del diseño de nuestro sistema.
