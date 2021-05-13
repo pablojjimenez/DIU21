@@ -42,16 +42,11 @@ Tomando como referencia las guías de diseño de Google (Material Design) hemos 
 
 ## Landing Page
 Página home de nuestra plataforma. Primer boceto.
-![imagen](https://user-images.githubusercontent.com/45092820/117320227-4fa80d00-ae8c-11eb-96fb-89c7c57688be.png)
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Inicio.png" width="100%">
 
 
 ## Mockup: LAYOUT HI-FI
 El mockup está disponible en forma de web en este [enlace](https://rmr00.github.io/DIU-Layouts/index.html).
-
-#### Inicio
-
-<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Inicio.png" width="100%">
-
 #### Información Excursiones
 
 <img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Excursiones.png" width="100%">
