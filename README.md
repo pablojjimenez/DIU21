@@ -140,9 +140,8 @@ Término | Significado
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Inicio.png" width="100%">
 
-
->>> Plantear Landing Page 
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
