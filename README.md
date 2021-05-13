@@ -26,6 +26,8 @@ Miembros
 ## Paso 1. UX Desk Research & Analisis 
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
+Hemos enfrentado estas plataformas: [Amovens](https://amovens.com), [BlaBlaCar](https://www.blablacar.es), [Amicoche](https://amicoche.com), [GetAround](https://es.getaround.com), [SocialCar](https://www.socialcar.com); con el fin de obtener evaluar sus funcionales comparandolas entre sus competidores directos.
+El conjunto de plataformas presenta unas características muy heterogeneas donde es complicado concluir claras diferencias podemos destacar la falta de traducción en algunas de ellas, la disponibilidad de la aplicación en todos los sistemas operativos y la adaptabilidad a los diferentes medios de pago. Decidimos tomar a Amovens como referencia por ser la más completa.
 -----
 |         | [Amovens](https://amovens.com) | [BlaBlaCar](https://www.blablacar.es) | [Amicoche](https://amicoche.com) | [GetAround](https://es.getaround.com) | [SocialCar](https://www.socialcar.com) |
 |------|------|------|-------|-------|-----|
@@ -45,8 +47,6 @@ Miembros
 |Chat online      | ✅ | ✅ | ✅ | ✅ | ❌ |
 |Reembolso por cancelación| ❌ | ❌ | ❌ | ✅ | ✅ |
 
-Hemos enfrentado estas plataformas: [Amovens](https://amovens.com), [BlaBlaCar](https://www.blablacar.es), [Amicoche](https://amicoche.com), [GetAround](https://es.getaround.com), [SocialCar](https://www.socialcar.com); con el fin de obtener evaluar sus funcionales comparandolas entre sus competidores directos.
-El conjunto de plataformas presenta unas características muy heterogeneas donde es complicado concluir claras diferencias podemos destacar la falta de traducción en algunas de ellas, la disponibilidad de la aplicación en todos los sistemas operativos y la adaptabilidad a los diferentes medios de pago. Decidimos tomar a Amovens como referencia por ser la más completa.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
@@ -74,7 +74,7 @@ Sandra no estaba muy segura de usar la plataforma para compartir su coche pero l
 ----
 [Enlace con el documento de la revisión](https://github.com/pablojj1808/DIU21/blob/master/P1/Usability-review.pdf)
 
-Valoración final: **72**
+Valoración final Amovens: **72** / 100
 
 La plataforma elegida es una de las grandes del sector, presenta una cómoda y cuidada interfaz de usuario tanto en su versión web como para dispositivos móviles (estas interfaces son muy parecidas, siguen las mismas líneas de diseño). Además, está disponible en 4 idiomas distintos. Amovens se postula como la gran aplicación que oferta dos servicios en una misma plataforma: compartir viajes y alquiler vehículo. Es difícil encontrarle fallos, como se puede notar por su alta puntuación. Aunque encontramos una tara a la hora de poder recibir ayuda en línea para su correcto uso. En caso de problemas técnicos tampoco tiene esta opción, todo se redirige a ponerte en contacto con ellos vía e-mail.
 
