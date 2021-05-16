@@ -1,6 +1,6 @@
 # DIU21
 Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Planificación y organización de viajes) 
-
+[video promocional](https://youtu.be/R76PtaAqw-o)
 Grupo: DIU1_PIÑA🍍.  Curso: 2020/21 
 Updated: 8/2/2021
 
