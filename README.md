@@ -88,48 +88,86 @@ La plataforma elegida es una de las grandes del sector, presenta una cómoda y c
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
-
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+[](https://github.com/pablojj1808/DIU21/blob/master/P2/img/feedbackcapturegrid.png)
+**Propuesta de valor:**
+Diseñaremos una web app para fomentar el turismo en Granada. Nuestra propuesta de valor se centrar en superar lo que ofrece la compentencia para ello nos centramos en Granada poniendo a disposición del viajero todo lo que va a necesitar para pasar unas vacaciones inolvidables en esta tierra. Posibilitar a los clientesde realizar todos los procesos de reserva en nuestra plataforma es el punto fuerte: reserva hotel, transporte, restaurante y ocio en un mismo lugar. Además cuentas con la interacción de personas que ya han usado esos servicios. 
 
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+![photo_2021-05-13_17-49-37](https://user-images.githubusercontent.com/45092820/118412003-e4361a80-b697-11eb-86c3-fe2639fe5115.jpg)
+
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+En la siguiente tabla se identifican las tareas y su relevancia para los usuarios. Distinguimos entre cuatro grupos de usuario:
+- **Estándar**: Usuario registrado en la aplicación que puede usar prácticamente todas las opciones que ofrece la aplicación salvo las reservadas para primium.
+- **Premium**: Usuario registrado en la aplicación que puede usar todo lo que un estándar más entablar chat con otros usuarios premiums, escribir valoraciones y recibir notificaciones de ofertas exclusivas.
+- **Promotor**: Son los usuarios/entidades que ofrece los distintos servicios de la aplicación.
+
+🟢 **ALTO (3)
+🟠 MEDIO  (2)
+🔴 BAJO   (1)
+❌ NO PUEDE**
+
+| GRUPOS DE USUARIO | ESTÁNDAR | PREMIUM | PROMOTOR | NO REGISTRADOS | Ranking |
+|-------------------|----------|---------|------------------|----------------|---------|
+| MODO NOCHE |  🟢  | 🟢  |  🟢  | 🟢  |12 |
+| CONSULTAR NOTIFICACIONES |  🟢  | 🟢 |  🟢  | 🟠  |11 |
+| INICIAR SESIÓN    |  🟢  | 🟢  | 🟢  | 🔴  | 10 |
+| PREGUNTAR OTROS USUARIOS |  🟢  | 🟢  | 🔴  | 🟢  |10 |
+| CONSULTAR CALENDARIO |  🟢  | 🟢 |  🟢  | 🔴  |10 |
+| **BUSCAR ESTANCIA**   |  🟢  | 🟢  | 🔴  | 🟠  | 10 |
+| **BUSCAR RESTAURACIÓN**|  🟢  | 🟢  | 🔴  | 🟠  |10 |
+| **BUSCAR TRANSPORTE**|  🟢  | 🟢  | 🔴  | 🟠  |10 |
+| INFORMACIÓN DE CONTACTO   | 🟢 | 🟠  | 🟠 | 🟢|10 |
+| BUSCAR OCIO |  🟢  | 🟢  | 🔴  | 🟠  |10 |
+| CONSULTAR PROMOCIONES |  🟢  | 🟠  |  🟠  | 🟢  |10 |
+| CHAT ONLINE |  🟠  | 🟠 |  🟢  |🟢  |10 |
+| RECORDAR CONTRASEÑA   | 🟢 | 🟢 | 🟢 | ❌|9 |
+| LEER FQAs   | 🟠 | 🟠 | 🟠 | 🟢|9 |
+| CAMBIAR IDIOMA   | 🟢 | 🟠 | 🟢 | ❌|8 |
+| HACERSE PREMIUM |  🟢  | 🔴  | 🔴  | 🟠  |7 |
+| **CREAR ACTIVIDAD**  | ❌ | ❌ | 🟢 | ❌|3 |
+| ALTA PROMOCIÓN   | ❌ | ❌ | 🟢 | ❌|3 |
+| REGISTRARSE   | ❌ | ❌ | ❌ | 🟢|3 |
+| BAJA PROMOCIÓN   | ❌ | ❌ | 🟢 | ❌|3 |
+| BORRAR ACTIVIDAD | ❌ | ❌ | 🟠 | ❌|2 |
+| BAJO PROMOCIÓN   | ❌ | ❌ | 🟠 | ❌|2 |
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
-
-
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
-
+**SiteMap**
+[](https://mermaid.ink/img/eyJjb2RlIjoiZ3JhcGggVERcbkFbSG9tZV0gPT0-QihVc2VycylcbkFbSG9tZV0gPT0-QyhPZmVycylcbkFbSG9tZV0gPT0-RChBYm91dCBVcylcbkFbSG9tZV0gPT0-RShTZXR0aW5ncylcblxuXG5DIC0tPiBtKENhdGVyaW5nKVxubSAtLT4gYjIoQmFyKVxubSAtLT4gYjMoUHViKVxubSAtLT4gYjQoUmVzdGF1cmFudHMpXG5cblxuQyAtLT4gbTIoVHJhbnNwb3J0KVxubTIgLS0-IGcxKFNoYXJpbmcgY2FyKVxubTIgLS0-IGcyKEFWRSlcbm0yIC0tPiBnMyhCdXMpXG5DIC0tPiBtMyhTcGFyZSB0aW1lKVxuQyAtLT4gbTQoU3RheSlcbm00IC0tPiBnNChIb3RlbHMpXG5tNCAtLT4gZzUoU2hhcmluZyBmbGF0cylcblxubTMgLS0-IGExKEN5Y2xpbmcpXG5tMyAtLT4gYTIoUm91dGVzKVxubTMgLS0-IGEzKE11c2V1bXMpXG5tMyAtLT4gYTQoQ2luZW1hcylcbm0zIC0tPiBhNShNdXNpY2FsIGV2ZW50cylcblxuQiAtLT4gYihTaWduIHVwKVxuQiAtLT4gYyhTaWduIGluKVxuQiAtLT4gKihTaWduIG91dClcbmMgLS0-IFgoIClcbmIgLS0-IFhcblggLS0-IHooVXAgUHJlbWl1bSlcblggLS0-IGQoVXNlciBQcm9maWxlKVxuXG5EIC0tPiBoKENvbnRhY3QpXG5EIC0tPiBqKEhlbHApXG5EIC0tPiBwKEZRQXMpXG5cbkUgLS0-IGUoRGFyayBtb2RlKVxuRSAtLT4gdChMYW5ndWFnZSlcbkUgLS0-IGYoU3VwcG9ydClcbkUgLS0-IHEoSGVscClcbmogLS0-IC4oQ2hhdCBPbmxpbmUpXG5kIC0tPiAubShNeSBDYXRlcmluZylcbmQgLS0-IC55KE15IFRyYW5zcG9ydClcbmQgLS0-IC5mKE15IHNwYXJlIHRpbWUpXG5kIC0tPiAucShNeSBTdGF5cylcbi5tIC0tPiBtXG4ueSAtLT4gbTJcbi5mIC0tPiBtM1xuLnEgLS0-IG00IiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQifSwidXBkYXRlRWRpdG9yIjpmYWxzZX0)]
+**Labelling**
+[](https://user-images.githubusercontent.com/45092820/116590785-714e4500-a91e-11eb-8257-f9d77c402c27.png)
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+Sign up 
+ <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/SignUp.png"/>
+ **Sign in
+ <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/LogIn.png"/>
+ 
+Home
+ <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Home.png"/>
+ 
+Options menu
+ <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Opcions.png"/>
+ 
+Activity
+ <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Element.png"/>
+ 
+User
+ <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/User.png"/>
+ 
+Settings
+ <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Settings.png"/>
+
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
