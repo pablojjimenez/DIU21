@@ -148,24 +148,31 @@ En la siguiente tabla se identifican las tareas y su relevancia para los usuario
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
-Sign up 
+**Sign up**
+
  <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/SignUp.png"/>
- **Sign in
+ 
+ **Sign in**
  <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/LogIn.png"/>
  
-Home
+**Home**
+
  <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Home.png"/>
  
-Options menu
+**Options menu**
+
  <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Opcions.png"/>
  
-Activity
+**Activity**
+
  <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Element.png"/>
  
-User
+**User**
+
  <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/User.png"/>
  
-Settings
+**Settings**
+
  <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Settings.png"/>
 
 
@@ -186,23 +193,69 @@ Settings
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
+Hemos decidido usar estas fuentes
+[](https://github.com/pablojj1808/DIU21/blob/master/P3/MoodboardImg/fuente1.png)
+[](https://github.com/pablojj1808/DIU21/blob/master/P3/MoodboardImg/fuente2.png)
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Iconos, basados en las recomendaciones de Google material Design
+
+[](https://user-images.githubusercontent.com/45092820/116590785-714e4500-a91e-11eb-8257-f9d77c402c27.png)
+
+Y la paleta de colores que sugiere tranquilidad y seguridad. Creemos que es lo ideal a transmitir cuando se está organizando un viaje. La combinación de estos colores otorga tambien una sensación de modernidad y cohesión que ya ha sido probada en aplicaciones populares. El hecho de que no sea una gama continuista en el tono del color da sensación esqueumorfista.
+[](https://github.com/pablojj1808/DIU21/blob/master/P3/MoodboardImg/colorscheme1.png)
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+En [este enlace](https://rmr00.github.io/DIU-Layouts/index.html) puede ver el MockUp en versión web y disfrutar de la navegabilidad real.
+
+#### Registro
+
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Registrar.png" width="100%">
+
+#### Iniciar Sesion
+Tiene dos modos, o bien desde la página de registro(primera imagen) o bien desde las funcionalidades de usuario(segunda Imagen).
+
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/IniciarSesion.png" width="100%">
+
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/IniciarSesion2.png" width="100%">
+
+#### Estancias
+
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Estancias.png" width="100%">
+
+#### Estancia concreta
+
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Hotel.png" width="100%">
+
+#### Reserva
+
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Reserva.png" width="100%">
+
+#### Restauracion
+
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Restauracion.png" width="100%">
+
+#### Transporte
+
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Transporte.png" width="100%">
+
+#### Ocio
+
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Ocio.png" width="100%">
+
+#### Soporte
+
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Soporte.png" width="100%">
+
+#### Sobre Nosotros
+
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/SobreNosotros.png" width="100%">
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
-
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
-
+La explicación de nuestro proyecto se encuentra en este [enlace](https://youtu.be/R76PtaAqw-o) 
 
 ## Paso 4. Evaluación 
 
