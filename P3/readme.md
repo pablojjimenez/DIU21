@@ -41,6 +41,7 @@ Tomando como referencia las guías de diseño de Google (Material Design) hemos 
 
 
 ## Landing Page
+>>> Reserva una aventura en la ciudad de la Alhmbra
 Página home de nuestra plataforma. Primer boceto.
 <img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Inicio.png" width="100%">
 
