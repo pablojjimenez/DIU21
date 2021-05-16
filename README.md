@@ -148,32 +148,11 @@ En la siguiente tabla se identifican las tareas y su relevancia para los usuario
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
-**Sign up**
-
- <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/SignUp.png"/>
- 
- **Sign in**
- <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/LogIn.png"/>
- 
-**Home**
-
- <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Home.png"/>
- 
-**Options menu**
-
- <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Opcions.png"/>
- 
-**Activity**
-
- <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Element.png"/>
- 
-**User**
-
- <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/User.png"/>
- 
-**Settings**
-
- <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Settings.png"/>
+|----------------------------------------|----------------------------------------|
+|<img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/SignUp.png"/> | <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/LogIn.png"/>|
+|<img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Home.png"/> | <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Opcions.png"/>|
+|<img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Element.png"/> |  <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/User.png"/> |
+| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Settings.png"/> | |
 
 
 
