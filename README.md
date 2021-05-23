@@ -1,7 +1,7 @@
 # DIU21
 Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Planificación y organización de viajes) 
 
-Te animamos a que veas nuestro [video promocional](https://youtu.be/R76PtaAqw-o) 
+Te animamos a que veas nuestro [video promocional](https://youtu.be/R76PtaAqw-o) 🎬😉
 
 Grupo: DIU1_PIÑA🍍.  Curso: 2020/21 
 
@@ -182,7 +182,7 @@ Y la paleta de colores que sugiere tranquilidad y seguridad. Creemos que es lo i
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
-Aquí se muestran las págnias más importantes, si deseas ver el diseño completo visita [este enlace](https://rmr00.github.io/DIU-Layouts/index.html) y podras ver el MockUp en versión web y disfrutar de la navegabilidad real.
+Aquí se muestran las páginas más importantes, si deseas ver el diseño completo visita [este enlace](https://rmr00.github.io/DIU-Layouts/index.html) y podras ver el MockUp en versión web y disfrutar de la navegabilidad real.
 
 #### Registro
 
