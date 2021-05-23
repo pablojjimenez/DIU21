@@ -157,7 +157,7 @@ En la siguiente tabla se identifican las tareas y su relevancia para los usuario
 |----------|----------|---------|---------|--------|-----------|-----------|
 
 
-| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/SignUp.png" width="70px"/> | <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/LogIn.png" width="80px"/>| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Home.png" width="100px"/>| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Opcions.png" width="10px"/>|<img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Element.png" width="10px"/>| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/User.png" width="10px"/> |<img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Settings.png" width="10px"/>|
+| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/SignUp.png" width="110px"/> | <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/LogIn.png" width="110px"/>| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Home.png" width="110px"/>| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Opcions.png" width="110px"/>|<img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Element.png" width="110px"/>| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/User.png" width="110px"/> |<img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Settings.png" width="110px"/>|
 |------------------|----------|---------|---------|--------|-----------|-----------|
 
 ## Paso 3. Mi UX-Case Study (diseño)
