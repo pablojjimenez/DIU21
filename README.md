@@ -157,6 +157,9 @@ En la siguiente tabla se identifican las tareas y su relevancia para los usuario
 |----------|----------|---------|---------|--------|-----------|-----------|
 
 
+| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/SignUp.png" width="10%"/> | <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/LogIn.png" width="10%"/>| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Home.png" width="10%"/>| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Opcions.png" width="10%"/>|<img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Element.png" width="10%"/>| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/User.png" width="10%"/> >|
+|------------------|----------|---------|---------|--------|-----------|
+
 ## Paso 3. Mi UX-Case Study (diseño)
 
 
