@@ -1,6 +1,7 @@
 # DIU - Practica 3, entregables
 
 ## Moodboard (diseño visual + logotipo)   
+![photo_2021-05-13_17-49-37](https://user-images.githubusercontent.com/45092820/118412003-e4361a80-b697-11eb-86c3-fe2639fe5115.jpg)
 ### Logotipo
 Para el diseño del logotipo teníamos claro que buscábamos algo que fuera moderno, no muy cargado pero que a su vez fuera representativo para nuestra aplicación. 
 
