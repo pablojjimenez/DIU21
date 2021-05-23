@@ -150,10 +150,10 @@ En la siguiente tabla se identifican las tareas y su relevancia para los usuario
 -----
 
 
-|<img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/SignUp.png" width="20%"/> | <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/LogIn.png" width="20%"/>
-|<img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Home.png"/> | <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Opcions.png"/>
-|<img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Element.png"/> |  <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/User.png"/> 
-| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Settings.png"/> 
+|<img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/SignUp.png" width="10%"/> | <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/LogIn.png" width="10%"/>
+|<img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Home.png" width="10%"/> | <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Opcions.png" width="10%"/>
+|<img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Element.png" width="10%"/> |  <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/User.png" width="10%"/> 
+| <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Settings.png" width="10%"/> 
 
 
 
@@ -187,18 +187,14 @@ Y la paleta de colores que sugiere tranquilidad y seguridad. Creemos que es lo i
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
-En [este enlace](https://rmr00.github.io/DIU-Layouts/index.html) puede ver el MockUp en versión web y disfrutar de la navegabilidad real.
+Aquí se muestran las págnias más importantes, si deseas ver el diseño completo visita [este enlace](https://rmr00.github.io/DIU-Layouts/index.html) y podras ver el MockUp en versión web y disfrutar de la navegabilidad real.
 
 #### Registro
 
 <img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Registrar.png" width="100%">
 
 #### Iniciar Sesion
-Tiene dos modos, o bien desde la página de registro(primera imagen) o bien desde las funcionalidades de usuario(segunda Imagen).
-
 <img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/IniciarSesion.png" width="100%">
-
-<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/IniciarSesion2.png" width="100%">
 
 #### Estancias
 
@@ -212,25 +208,9 @@ Tiene dos modos, o bien desde la página de registro(primera imagen) o bien desd
 
 <img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Reserva.png" width="100%">
 
-#### Restauracion
-
-<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Restauracion.png" width="100%">
-
-#### Transporte
-
-<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Transporte.png" width="100%">
-
-#### Ocio
-
-<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Ocio.png" width="100%">
-
 #### Soporte
 
 <img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Soporte.png" width="100%">
-
-#### Sobre Nosotros
-
-<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/SobreNosotros.png" width="100%">
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
