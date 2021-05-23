@@ -96,7 +96,8 @@ Diseñaremos una web app para fomentar el turismo en Granada. Nuestra propuesta 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
-![photo_2021-05-13_17-49-37](https://user-images.githubusercontent.com/45092820/118412003-e4361a80-b697-11eb-86c3-fe2639fe5115.jpg)
+
+<img width="1337" alt="Captura de pantalla 2021-04-08 a las 16 56 12" src="https://user-images.githubusercontent.com/45092820/114048995-56dafb80-988b-11eb-9571-2e706ecc291e.png">
 
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
