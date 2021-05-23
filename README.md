@@ -1,7 +1,7 @@
 # DIU21
 Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Planificación y organización de viajes) 
 
-[video promocional](https://youtu.be/R76PtaAqw-o)
+Te animamos a que veas nuestro [video promocional](https://youtu.be/R76PtaAqw-o) 
 
 Grupo: DIU1_PIÑA🍍.  Curso: 2020/21 
 
@@ -154,7 +154,7 @@ En la siguiente tabla se identifican las tareas y su relevancia para los usuario
 |<img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Home.png" width="10%"/> | <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Opcions.png" width="10%"/>
 |<img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Element.png" width="10%"/> |  <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/User.png" width="10%"/> 
 | <img src="https://github.com/pablojj1808/DIU21/blob/master/P2/bocetosLo-Fi/Settings.png" width="10%"/> 
-
+|----------|----------|---------|---------|--------|-----------|-----------|
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
@@ -194,7 +194,8 @@ Aquí se muestran las págnias más importantes, si deseas ver el diseño comple
 <img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/Registrar.png" width="100%">
 
 #### Iniciar Sesion
-<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/IniciarSesion.png" width="100%">
+
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/Mockup/IniciarSesion2.png" width="100%">
 
 #### Estancias
 
