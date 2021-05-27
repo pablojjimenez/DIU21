@@ -174,12 +174,11 @@ Hemos decidido usar estas fuentes:
 | <img src="https://github.com/pablojj1808/DIU21/blob/master/P3/MoodboardImg/fuente1.png" width="50%"/> | <img src="https://github.com/pablojj1808/DIU21/blob/master/P3/MoodboardImg/fuente2.png" width="50%"/>| 
 |------------------|---------------------|
 
-Iconos, basados en las recomendaciones de Google material Design
+Iconos, basados en las recomendaciones de Google material Design. Y la paleta de colores que sugiere tranquilidad y seguridad. Creemos que es lo ideal a transmitir cuando se está organizando un viaje. La combinación de estos colores otorga tambien una sensación de modernidad y cohesión que ya ha sido probada en aplicaciones populares. El hecho de que no sea una gama continuista en el tono del color da sensación esqueumorfista.
 
-<img src="https://user-images.githubusercontent.com/45092820/116590785-714e4500-a91e-11eb-8257-f9d77c402c27.png" width="50%"/>
+| <img src="https://user-images.githubusercontent.com/45092820/116590785-714e4500-a91e-11eb-8257-f9d77c402c27.png" width="30%"/> | <img src="https://github.com/pablojj1808/DIU21/blob/master/P3/MoodboardImg/colorscheme1.png" width="50%"/>| 
+|------------------|---------------------|
 
-Y la paleta de colores que sugiere tranquilidad y seguridad. Creemos que es lo ideal a transmitir cuando se está organizando un viaje. La combinación de estos colores otorga tambien una sensación de modernidad y cohesión que ya ha sido probada en aplicaciones populares. El hecho de que no sea una gama continuista en el tono del color da sensación esqueumorfista.
-[](https://github.com/pablojj1808/DIU21/blob/master/P3/MoodboardImg/colorscheme1.png)
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
