@@ -228,12 +228,17 @@ En esta app el usuario podrá seleccionar el tiempo del que dispone para pasar e
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
-El estudio lo hemos llevado a cabo a partir de la opinión de dos personas reales anónimas a las que se ha preguntado por los dos casos, tanto A como B. Siendo A el caso de nuestra plataforma: **GrandTrip** y B el caso asignado: **GranadaÁrabe**.
+El estudio lo hemos llevado a cabo a partir de la opinión de dos personas reales anónimas y 2 personas ficticias a las que se ha preguntado por los dos casos, tanto A como B. Siendo A el caso de nuestra plataforma: **GrandTrip** y B el caso asignado: **GranadaÁrabe**.
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| Usuario anónimo 1  | M / 26   | Trabajador  | Media       | Emocional | Web.       | A y B
-| Usuario anónimo 2  | H / 18   | Estudiante  | Baja       | Timido       | Movil.        | A y B
+| Usuario anónimo 1  | M / 26   | Trabajadora  | Media       | Emocional | Web.       | A y B
+| Usuario anónimo 2  | H / 18   | Estudiante  | Baja       | Temperamental       | Movil.        | A y B
+| Usuario ficticio: Ricardo  | H / 47   | Trabajador  | Media      | Activo       | Web.        | A
+| Usuario ficticio: Sandra  | H / 29   | Trabajador  | Baja       | Natual       | Movil.        | B
+
+Para conocer más sobre los personajes ficticion pulsa [aquí](https://github.com/pablojj1808/DIU21#-1b-persona).
+
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
