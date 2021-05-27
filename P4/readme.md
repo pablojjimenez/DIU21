@@ -36,7 +36,7 @@ El estudio lo hemos llevado a cabo a partir de la opinión de dos personas reale
 | Experiencia en internet |  Media  | Baja  | Media  | Baja  |
 
 
-
+----- 
 
 🟢 **SIEMPRE (a diario)
 🟡 FRECUENTE
@@ -53,7 +53,21 @@ El estudio lo hemos llevado a cabo a partir de la opinión de dos personas reale
 | Tablet |  🔴  | 🟢 |  🟢  | 🔴  |
 
 
+----- 
 
+Cuestionario SUS leyenda:
+
+	🔴**NO ACEPTABLE (SI ES <40)
+	
+	🟠 MARGINAL (LOW  40-60)
+	
+	🟡 MARGINAL D (ENTRE 60-70)
+	
+	🟢 ACEPTABLE TIPO C (GOOD 70-80)
+	
+	🔵 ACEPTABLE TIPO B (EXECELENT 80-90)
+	
+	🟣 ACEPTABLE TIPO A (THE BEST 90-100)
 
 ### CASO A
 
@@ -72,14 +86,11 @@ El estudio lo hemos llevado a cabo a partir de la opinión de dos personas reale
 | Necesito aprender muchas cosas antes de manejarme en el website |  1  | 1  | 1  |
 | VALORACION FINAL |  90 🟣 | 87.5 🔵 |  77.5 🟢 |
 
-Media de valoraciones= 85 /100 🔵
+**Media de valoraciones= 85 /100 🔵**
 
-🔴**NO ACEPTABLE (SI ES <40)
-🟠 MARGINAL (LOW  40-60)
-🟡 MARGINAL D (ENTRE 60-70)
-🟢 ACEPTABLE TIPO C (GOOD 70-80)
-🔵 ACEPTABLE TIPO B (EXECELENT 80-90)
-🟣 ACEPTABLE TIPO A (THE BEST 90-100)
+
+
+----- 
 
 ### CASO B
 
@@ -97,14 +108,9 @@ Media de valoraciones= 85 /100 🔵
 | Necesito aprender muchas cosas antes de manejarme en el website |  1  | 2  | 1  |
 | VALORACION FINAL |  87.5 🔵 | 75 🟢 |  77.5 🟢 |
 
-Media de valoraciones= 80 /100 🔵
+**Media de valoraciones= 80 /100 🔵**
 
-🔴**NO ACEPTABLE (SI ES <40)
-🟠 MARGINAL (LOW  40-60)
-🟡 MARGINAL D (ENTRE 60-70)
-🟢 ACEPTABLE TIPO C (GOOD 70-80)
-🔵 ACEPTABLE TIPO B (EXECELENT 80-90)
-🟣 ACEPTABLE TIPO A (THE BEST 90-100)
+----- 
 
 
 🔗Enlace directo la [hoja de cálculo](https://github.com/pablojj1808/DIU21/blob/master/P4/Cuestionario%20SUS%20DIU.xlsx)
