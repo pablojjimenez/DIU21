@@ -86,12 +86,13 @@ La plataforma elegida es una de las grandes del sector, presenta una cómoda y c
 ## Paso 2. UX Design  
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
+![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 [](https://github.com/pablojj1808/DIU21/blob/master/P2/img/feedbackcapturegrid.png)
 **Propuesta de valor:**
 Diseñaremos una web app para fomentar el turismo en Granada. Nuestra propuesta de valor se centrar en superar lo que ofrece la compentencia para ello nos centramos en Granada poniendo a disposición del viajero todo lo que va a necesitar para pasar unas vacaciones inolvidables en esta tierra. Posibilitar a los clientesde realizar todos los procesos de reserva en nuestra plataforma es el punto fuerte: reserva hotel, transporte, restaurante y ocio en un mismo lugar. Además cuentas con la interacción de personas que ya han usado esos servicios. 
 
+🔗[**Feedback Capture Grid**](https://github.com/pablojj1808/DIU21/blob/master/P2/img/feedbackcapturegrid.png)
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
@@ -168,9 +169,10 @@ En la siguiente tabla se identifican las tareas y su relevancia para los usuario
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
-Hemos decidido usar estas fuentes
-[](https://github.com/pablojj1808/DIU21/blob/master/P3/MoodboardImg/fuente1.png)
-[](https://github.com/pablojj1808/DIU21/blob/master/P3/MoodboardImg/fuente2.png)
+Hemos decidido usar estas fuentes:
+
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/MoodboardImg/fuente1.png" width="100%">
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/MoodboardImg/fuente2.png" width="100%">
 
 Iconos, basados en las recomendaciones de Google material Design
 
