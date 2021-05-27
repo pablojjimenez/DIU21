@@ -171,8 +171,8 @@ En la siguiente tabla se identifican las tareas y su relevancia para los usuario
 ----
 Hemos decidido usar estas fuentes:
 
-|<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/MoodboardImg/fuente1.png" width="50%">||<img src="https://github.com/pablojj1808/DIU21/blob/master/P3/MoodboardImg/fuente2.png" width="50%">|
-|-------|-----|
+| <img src="https://github.com/pablojj1808/DIU21/blob/master/P3/MoodboardImg/fuente1.png" width="50%"/> | <img src="https://github.com/pablojj1808/DIU21/blob/master/P3/MoodboardImg/fuente2.png" width="50%"/>| 
+|------------------|---------------------|
 
 Iconos, basados en las recomendaciones de Google material Design
 
