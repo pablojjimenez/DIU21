@@ -244,7 +244,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 #### System Usability Scale Test:
 
-<img src="https://github.com/pablojj1808/DIU21/blob/master/P4/SUS.png" width="100%">
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P4/SUS.png" width="60%">
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
