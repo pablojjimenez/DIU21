@@ -100,7 +100,7 @@ Cuestionario SUS leyenda:
 
 ### CASO B
 
-| Cuestionario SUS | Usuario anónimo 1 👩‍🦱| Usuario anónimo 2 👦 |Usuario ficticio: Sandra | 
+| Cuestionario SUS | Usuario anónimo 1 👩‍🦱| Usuario anónimo 2 👦 |Usuario ficticio: Sandra 👩| 
 |-------------------|----------|---------|------------------|
 | Creo que me gustará visitar con frecuencia este website | 4 | 5 | 5 |
 | Encontré el website innecesariamente complejo |  2  | 5 |  2  |
