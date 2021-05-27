@@ -34,7 +34,7 @@ El estudio lo hemos llevado a cabo a partir de la opinión de dos personas reale
 | Edad |  26  | 18 |  47  | 29  |
 | Ocupación|  Trabajadora  | Estudiante  | Trabajador  | Trabajadora  |
 | Experiencia en internet |  Media  | Baja  | Media  | Baja  |
-
+|-------------------|----------|---------|------------------|----------------|
 
 🟢 **SIEMPRE (a diario)
 🟡 FRECUENTE
@@ -49,11 +49,11 @@ El estudio lo hemos llevado a cabo a partir de la opinión de dos personas reale
 | Movil (IOS/Nokia/WIndows) |  🔴  | 🔴  | 🟢  | 🟢  |
 | Tablet |  🔴  | 🟢 |  🟢  | 🔴  |
 
-
+|-------------------|----------|---------|------------------|----------------|
 ### CASO A
 
 
-| Cuestionario SUS | Usuario anónimo 1 | Usuario anónimo 2 | Usuario ficticio: Ricardo 
+| Cuestionario SUS | Usuario anónimo 1 | Usuario anónimo 2 | Usuario ficticio: Ricardo |
 |-------------------|----------|---------|------------------|----------------|
 | Creo que me gustará visitar con frecuencia este website | 5 | 5 | 4|
 | Encontré el website innecesariamente complejo |  1  | 1 |  2  |
