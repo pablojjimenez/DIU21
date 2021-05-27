@@ -224,6 +224,7 @@ La explicación de nuestro proyecto se encuentra en este [enlace](https://youtu.
 
 En esta app el usuario podrá seleccionar el tiempo del que dispone para pasar en la ciudad y el tipo de experiencias que le gustaría vivir y disfrutar. En función de su selección, esta app proporciona una serie de rutas que al usuario podrían interesar, entre las cuales podrá elegir.
 
+🔗Enlace directo al proyecto [**GranadaÁrabe**](https://github.com/daniharo/DIU21)
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
@@ -246,7 +247,7 @@ Para conocer más sobre los personajes ficticios pulsa [aquí](https://github.co
 
 Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. 
 Para ello usamos la [hoja de cálculo](https://github.com/pablojj1808/DIU21/blob/master/P4/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
+http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/
 
 >>Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 
