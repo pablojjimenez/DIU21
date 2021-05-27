@@ -28,6 +28,7 @@ El estudio lo hemos llevado a cabo a partir de la opinión de dos personas reale
 	Describe la experiencia 3
 
 
+
 |  | Usuario anónimo 1 | Usuario anónimo 2 | Usuario ficticio: Ricardo |Usuario ficticio: Sandra| 
 |-------------------|----------|---------|------------------|----------------|
 | Sexo |  Mujer  | Hombre  |  Hombre  | Mujer  |
@@ -54,6 +55,7 @@ El estudio lo hemos llevado a cabo a partir de la opinión de dos personas reale
 
 
 ----- 
+### Cuestionario SUS
 
 Cuestionario SUS leyenda:
 
@@ -69,7 +71,8 @@ Cuestionario SUS leyenda:
 	
 	🟣 ACEPTABLE TIPO A (THE BEST 90-100)
 
-### CASO A
+
+#### CASO A
 
 
 | Cuestionario SUS | Usuario anónimo 1 | Usuario anónimo 2 | Usuario ficticio: Ricardo |
