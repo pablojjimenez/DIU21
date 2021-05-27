@@ -235,7 +235,7 @@ El estudio lo hemos llevado a cabo a partir de la opinión de dos personas reale
 | Usuario anónimo 1  | M / 26   | Trabajadora  | Media       | Emocional | Web.       | A y B
 | Usuario anónimo 2  | H / 18   | Estudiante  | Baja       | Temperamental       | Movil.        | A y B
 | Usuario ficticio: Ricardo  | H / 47   | Trabajador  | Media      | Activo       | Web.        | A
-| Usuario ficticio: Sandra  | H / 29   | Trabajador  | Baja       | Natual       | Movil.        | B
+| Usuario ficticio: Sandra  | H / 29   | Trabajadora  | Baja       | Natual       | Movil.        | B
 
 Para conocer más sobre los personajes ficticion pulsa [aquí](https://github.com/pablojj1808/DIU21#-1b-persona).
 
@@ -244,13 +244,15 @@ Para conocer más sobre los personajes ficticion pulsa [aquí](https://github.co
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
+Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. 
+Para ello usamos la [hoja de cálculo](https://github.com/pablojj1808/DIU21/blob/master/P4/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
 http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+
+>>Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 
 #### System Usability Scale Test:
 
-<img src="https://github.com/pablojj1808/DIU21/blob/master/P4/SUS.png" width="70%">
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P4/SUS.png//github.com/pablojj1808/DIU21/blob/master/P4/SUS.png" width="100%"/>
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
