@@ -34,12 +34,15 @@ El estudio lo hemos llevado a cabo a partir de la opinión de dos personas reale
 | Edad |  26  | 18 |  47  | 29  |
 | Ocupación|  Trabajadora  | Estudiante  | Trabajador  | Trabajadora  |
 | Experiencia en internet |  Media  | Baja  | Media  | Baja  |
-|-------------------|----------|---------|------------------|----------------|
+
+
+
 
 🟢 **SIEMPRE (a diario)
 🟡 FRECUENTE
 🟠 A VECES
 🔴 POCO/NADA
+
 
 | Uso de tecnología | Usuario anónimo 1 | Usuario anónimo 2 | Usuario ficticio: Ricardo |Usuario ficticio: Sandra| 
 |-------------------|----------|---------|------------------|----------------|
@@ -49,12 +52,14 @@ El estudio lo hemos llevado a cabo a partir de la opinión de dos personas reale
 | Movil (IOS/Nokia/WIndows) |  🔴  | 🔴  | 🟢  | 🟢  |
 | Tablet |  🔴  | 🟢 |  🟢  | 🔴  |
 
-|-------------------|----------|---------|------------------|----------------|
+
+
+
 ### CASO A
 
 
 | Cuestionario SUS | Usuario anónimo 1 | Usuario anónimo 2 | Usuario ficticio: Ricardo |
-|-------------------|----------|---------|------------------|----------------|
+|-------------------|----------|---------|------------------|
 | Creo que me gustará visitar con frecuencia este website | 5 | 5 | 4|
 | Encontré el website innecesariamente complejo |  1  | 1 |  2  |
 | Pensé que era fácil utilizar este website |  5  | 4  | 4  |
@@ -79,7 +84,7 @@ Media de valoraciones= 85 /100 🔵
 ### CASO B
 
 | Cuestionario SUS | Usuario anónimo 1 | Usuario anónimo 2  |Usuario ficticio: Sandra| 
-|-------------------|----------|---------|------------------|----------------|
+|-------------------|----------|---------|------------------|
 | Creo que me gustará visitar con frecuencia este website | 4 | 5 | 5 |
 | Encontré el website innecesariamente complejo |  2  | 5 |  2  |
 | Pensé que era fácil utilizar este website |  4  | 3  | 4  |
