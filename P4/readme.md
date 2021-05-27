@@ -21,6 +21,9 @@ En esta app el usuario podrá seleccionar el tiempo del que dispone para pasar e
 El estudio lo hemos llevado a cabo a partir de la opinión de dos personas reales anónimas y dos personas ficticias. A las personas reales se les ha preguntado por los dos casos, tanto A como B. En el caso de las personas ficticias cada una a evaluado un caso diferente. 
 
 
+Para conocer más sobre los personajes ficticios pulsa [aquí](https://github.com/pablojj1808/DIU21#-1b-persona).
+
+
 	Describe la experiencia 1
 
 	Describe la experiencia 2
@@ -29,7 +32,7 @@ El estudio lo hemos llevado a cabo a partir de la opinión de dos personas reale
 
 
 
-|  | Usuario anónimo 1 | Usuario anónimo 2 | Usuario ficticio: Ricardo |Usuario ficticio: Sandra| 
+|  | Usuario anónimo 1 👩‍🦱| Usuario anónimo 2 👦 | Usuario ficticio: Ricardo 🧔 |Usuario ficticio: Sandra | 
 |-------------------|----------|---------|------------------|----------------|
 | Sexo |  Mujer  | Hombre  |  Hombre  | Mujer  |
 | Edad |  26  | 18 |  47  | 29  |
@@ -45,7 +48,7 @@ El estudio lo hemos llevado a cabo a partir de la opinión de dos personas reale
 🔴 POCO/NADA
 
 
-| Uso de tecnología | Usuario anónimo 1 | Usuario anónimo 2 | Usuario ficticio: Ricardo |Usuario ficticio: Sandra| 
+| Uso de tecnología | Usuario anónimo 1 👩‍🦱 | Usuario anónimo 2 👦 | Usuario ficticio: Ricardo 🧔|Usuario ficticio: Sandra 👩| 
 |-------------------|----------|---------|------------------|----------------|
 | PC (Windows)|  🟠  | 🟡  | 🔴  | 🟠  |
 | PC (MAC/Linux) |  🔴  | 🟠 |  🟢  | 🟢  |
@@ -75,7 +78,7 @@ Cuestionario SUS leyenda:
 #### CASO A
 
 
-| Cuestionario SUS | Usuario anónimo 1 | Usuario anónimo 2 | Usuario ficticio: Ricardo |
+| Cuestionario SUS | Usuario anónimo 1 👩‍🦱| Usuario anónimo 2 👦| Usuario ficticio: Ricardo 🧔|
 |-------------------|----------|---------|------------------|
 | Creo que me gustará visitar con frecuencia este website | 5 | 5 | 4|
 | Encontré el website innecesariamente complejo |  1  | 1 |  2  |
@@ -97,7 +100,7 @@ Cuestionario SUS leyenda:
 
 ### CASO B
 
-| Cuestionario SUS | Usuario anónimo 1 | Usuario anónimo 2  |Usuario ficticio: Sandra| 
+| Cuestionario SUS | Usuario anónimo 1 👩‍🦱| Usuario anónimo 2 👦 |Usuario ficticio: Sandra | 
 |-------------------|----------|---------|------------------|
 | Creo que me gustará visitar con frecuencia este website | 4 | 5 | 5 |
 | Encontré el website innecesariamente complejo |  2  | 5 |  2  |
