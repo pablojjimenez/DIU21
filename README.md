@@ -219,8 +219,9 @@ La explicación de nuestro proyecto se encuentra en este [enlace](https://youtu.
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
+GranadaÁrabe es una app que propone al usuario un conjunto de lugares y experiencias: gastronómicas, monumentales, actividades y paseos relacionados con la historia árabe que rodea a Granada.
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+El usuario podrá seleccionar el tiempo del que dispone para pasar en la ciudad y el tipo de experiencias que le gustaría vivir y disfrutar. En función de su selección, la app proporcionará una serie de rutas que al usuario podrían interesar, entre las cuales podrá elegir.
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
