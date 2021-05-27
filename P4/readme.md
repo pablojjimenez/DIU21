@@ -30,7 +30,7 @@ Para conocer más sobre los personajes ficticios pulsa [aquí](https://github.co
 
 	Describe la experiencia 3
 
-
+### Descripción de los usuarios
 
 |  | Usuario anónimo 1 👩‍🦱| Usuario anónimo 2 👦 | Usuario ficticio: Ricardo 🧔 |Usuario ficticio: Sandra | 
 |-------------------|----------|---------|------------------|----------------|
