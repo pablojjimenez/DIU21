@@ -237,7 +237,7 @@ El estudio lo hemos llevado a cabo a partir de la opinión de dos personas reale
 | Usuario ficticio: Ricardo  | H / 47   | Trabajador  | Media      | Activo       | Web.        | A
 | Usuario ficticio: Sandra  | H / 29   | Trabajadora  | Baja       | Natual       | Movil.        | B
 
-Para conocer más sobre los personajes ficticion pulsa [aquí](https://github.com/pablojj1808/DIU21#-1b-persona).
+Para conocer más sobre los personajes ficticios pulsa [aquí](https://github.com/pablojj1808/DIU21#-1b-persona).
 
 
 
@@ -252,7 +252,7 @@ http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-t
 
 #### System Usability Scale Test:
 
-<img src="https://github.com/pablojj1808/DIU21/blob/master/P4/SUS.png//github.com/pablojj1808/DIU21/blob/master/P4/SUS.png" width="100%"/>
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P4/SUS.png" width="100%"/>
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
