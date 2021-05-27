@@ -227,15 +227,12 @@ En esta app el usuario podrá seleccionar el tiempo del que dispone para pasar e
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
+El estudio lo hemos llevado a cabo a partir de la opinión de dos personas reales anónimas a las que se ha preguntado por los dos casos, tanto A como B. Siendo A el caso de nuestra plataforma: **GrandTrip** y B el caso asignado: **GranadaÁrabe**.
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Usuario anónimo 1  | M / 26   | Trabajador  | Media       | Emocional | Web.       | A y B
+| Usuario anónimo 2  | H / 18   | Estudiante  | Baja       | Timido       | Movil.        | A y B
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
