@@ -242,8 +242,9 @@ El estudio lo hemos llevado a cabo a partir de la opinión de dos personas reale
 http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
 Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+#### System Usability Scale Test:
 
+<img src="https://github.com/pablojj1808/DIU21/blob/master/P4/SUS.png" width="100%">
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
