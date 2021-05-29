@@ -87,7 +87,7 @@ Cuestionario SUS leyenda:
 | Necesito aprender muchas cosas antes de manejarme en el website |  1  | 1  | 1  |
 | VALORACION FINAL |  90 🟣 | 87.5 🔵 |  77.5 🟢 |
 
-**Media de valoraciones= 85 /100 🔵**
+**Media de valoraciones = 85 /100 🔵**
 
 
 ----- 
@@ -108,7 +108,7 @@ Cuestionario SUS leyenda:
 | Necesito aprender muchas cosas antes de manejarme en el website |  1  | 2  | 1  |
 | VALORACION FINAL |  87.5 🔵 | 75 🟢 |  77.5 🟢 |
 
-**Media de valoraciones= 80 /100 🔵**
+**Media de valoraciones = 80 /100 🔵**
 
 ##### CONCLUSIÓN A/B TESTING
 
@@ -121,11 +121,11 @@ Ambas aplicaciones obtienen una media dentro del rango ACEPTABLE TIPO B (EXECELL
 
 ## Usability Report
 
-Hemos realizado también un informe de usabilidad a partir de los datos obtenidos del A/B testing:
+Hemos realizado también un informe de usabilidad a partir de los datos obtenidos del A/B testing, tanto para nuestro caso a modo de autocrítica tanto para el caso asignado:
 
-🔗Enlace directo al informe sobre [**GranadaÁrabe**](https://github.com/pablojj1808/DIU21/blob/master/P4/Cuestionario%20SUS%20DIU.xlsx)
+🔗Enlace directo al informe sobre [**GranadaÁrabe**](https://github.com/pablojj1808/DIU21/blob/master/P4/UsabilityReport_GranadaArabe.pdf)
 
-🔗Enlace directo al informe sobre [**GrandTrip**](https://github.com/pablojj1808/DIU21/blob/master/P4/Cuestionario%20SUS%20DIU.xlsx)
+🔗Enlace directo al informe sobre [**GrandTrip**](https://github.com/pablojj1808/DIU21/blob/master/P4/UsabilityReport_GrandTrip.pdf)
 
 
 ## Conclusiones
