@@ -255,6 +255,13 @@ http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-t
 
 <img src="https://github.com/pablojj1808/DIU21/blob/master/P4/SUS.png" width="100%"/>
 
+##### CONCLUSIÓN A/B TESTING
+
+Media de valoraciones caso A = 85/100
+Media de valoraciones caso B = 80/100
+
+Ambas aplicaciones obtienen una media dentro del rango ACEPTABLE TIPO B (EXECELLENT) por lo que ambas son aplicaciones muy completas e intuitivas y la experiencia de usuario en general es positiva. Pero si analizamos las valoraciones de los usuarios individualmente en el caso A (GrandTrip) uno de los participantes valora la aplicacación como ACEPTABLE TIPO A (THE BEST) siendo este el rango más alto y en el caso B (GranadaÁrabe) dos panticipantes de la encuesta valoran la aplicación como ACEPTABLE TIPO C (GOOD), por lo que aunque la media no muestre diferencias significativas las valoraciones particulares si lo hacen.
+
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
