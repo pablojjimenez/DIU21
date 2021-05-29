@@ -245,11 +245,13 @@ Para conocer más sobre los personajes ficticios pulsa [aquí](https://github.co
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
-Usamos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. 
+Usamos un **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. 
 
 #### System Usability Scale Test:
 
 <img src="https://github.com/pablojj1808/DIU21/blob/master/P4/SUS.png" width="100%"/>
+
+🔗Enlace directo la [hoja de cálculo](https://github.com/pablojj1808/DIU21/blob/master/P4/Cuestionario%20SUS%20DIU.xlsx)
 
 ##### CONCLUSIÓN A/B TESTING
 
