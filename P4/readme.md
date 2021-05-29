@@ -24,12 +24,6 @@ El estudio lo hemos llevado a cabo a partir de la opinión de dos personas reale
 Para conocer más sobre los personajes ficticios pulsa [aquí](https://github.com/pablojj1808/DIU21#-1b-persona).
 
 
-	Describe la experiencia 1
-
-	Describe la experiencia 2
-
-	Describe la experiencia 3
-
 ### Descripción de los usuarios
 
 |  | Usuario anónimo 1 👩‍🦱| Usuario anónimo 2 👦 | Usuario ficticio: Ricardo 🧔 |Usuario ficticio: Sandra | 
@@ -58,6 +52,7 @@ Para conocer más sobre los personajes ficticios pulsa [aquí](https://github.co
 
 
 ----- 
+
 ### Cuestionario SUS
 
 Cuestionario SUS leyenda:
@@ -70,7 +65,7 @@ Cuestionario SUS leyenda:
 	
 	🟢 ACEPTABLE TIPO C (GOOD 70-80)
 	
-	🔵 ACEPTABLE TIPO B (EXECELENT 80-90)
+	🔵 ACEPTABLE TIPO B (EXECELLENT 80-90)
 	
 	🟣 ACEPTABLE TIPO A (THE BEST 90-100)
 
@@ -95,7 +90,6 @@ Cuestionario SUS leyenda:
 **Media de valoraciones= 85 /100 🔵**
 
 
-
 ----- 
 
 ### CASO B
@@ -115,6 +109,10 @@ Cuestionario SUS leyenda:
 | VALORACION FINAL |  87.5 🔵 | 75 🟢 |  77.5 🟢 |
 
 **Media de valoraciones= 80 /100 🔵**
+
+##### CONCLUSIÓN A/B TESTING
+
+Ambas aplicaciones obtienen una media dentro del rango ACEPTABLE TIPO B (EXECELLENT) por lo que ambas son aplicaciones muy completas e intuitivas y la experiencia de usuario en general es positiva. Pero si analizamos las valoraciones de los usuarios individualmente en el caso A (GrandTrip) uno de los participantes valora la aplicacación como ACEPTABLE TIPO A (THE BEST) siendo este el rango más alto y en el caso B (GranadaÁrabe) dos panticipantes de la encuesta valoran la aplicación como ACEPTABLE TIPO C (GOOD), por lo que aunque la media no muestre diferencias significativas las valoraciones particulares si lo hacen. 
 
 ----- 
 
