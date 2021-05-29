@@ -42,10 +42,10 @@ Para conocer más sobre los personajes ficticios pulsa [aquí](https://github.co
 
 ----- 
 
-🟢 **SIEMPRE (a diario)
-🟡 FRECUENTE
-🟠 A VECES
-🔴 POCO/NADA
+🟢 **SIEMPRE (a diario)**
+🟡 **FRECUENTE**
+🟠 **A VECES**
+🔴 **POCO/NADA**
 
 
 | Uso de tecnología | Usuario anónimo 1 👩‍🦱 | Usuario anónimo 2 👦 | Usuario ficticio: Ricardo 🧔|Usuario ficticio: Sandra 👩| 
@@ -62,7 +62,7 @@ Para conocer más sobre los personajes ficticios pulsa [aquí](https://github.co
 
 Cuestionario SUS leyenda:
 
-	🔴**NO ACEPTABLE (SI ES <40)
+	🔴NO ACEPTABLE (SI ES <40)
 	
 	🟠 MARGINAL (LOW  40-60)
 	
@@ -120,6 +120,15 @@ Cuestionario SUS leyenda:
 
 
 🔗Enlace directo la [hoja de cálculo](https://github.com/pablojj1808/DIU21/blob/master/P4/Cuestionario%20SUS%20DIU.xlsx)
+
+## Usability Report
+
+Hemos realizado también un informe de usabilidad a partir de los datos obtenidos del A/B testing:
+
+🔗Enlace directo al informe sobre [**GranadaÁrabe**](https://github.com/pablojj1808/DIU21/blob/master/P4/Cuestionario%20SUS%20DIU.xlsx)
+
+🔗Enlace directo al informe sobre [**GrandTrip**](https://github.com/pablojj1808/DIU21/blob/master/P4/Cuestionario%20SUS%20DIU.xlsx)
+
 
 ## Conclusiones
 Como conclusión a las experiencias de los usuarios, ambas son aplicaciones muy completas e intuitivas por lo que la experiencia de usuario en general es positiva. Como conclusión a la práctica consideramos que es un paso idóneo realizar un estudio en cuanto a experiencia de usuario o comparación con otras plataformas después de realizar el diseño en la práctica anterior.
