@@ -287,10 +287,12 @@ Hemos realizado también un informe de usabilidad a partir de los datos obtenido
 
 
 
-## Conclusión final / Valoración de las prácticas
+## Conclusión final de prácticas
 
 Consideramos que hablar de diseño es fundamental al fin y al cabo todos los días estamos usando aplicaciones y tenemos que lidiar con muchas distintas interfaces cada una con una filosofía distinta por lo que crear conocimiento sobre ello en forma de guidelines es algo muy positivo para estandarizar procedimientos y diseños.
+
 En las prácticas de esta asignatura hemos visto todo el proceso que se debe seguir para generar un producto que cumpla con los estándares de esta industria y no sólo en el termino legal de accesibilidad sino también en el visual de acuerdo con los tiempos en los que vivimos y la época en la que se encuentran las TICs.
+
 La asignatura ha servido para fijarnos en detalles que antes podían pasar desapercibidos pero que marcan la diferencia entre un producto que parece bien finalizado y pensado, y otro que se queda a medio camino. La buena experiencia de usuario puede y debe ir de la mano de unas políticas de accesibilidad que permitan a todo el mundo disfrutar del sitio adaptándose a las necesidades particulares de los usuarios.
 
 
