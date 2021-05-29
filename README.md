@@ -5,7 +5,7 @@ Te animamos a que veas nuestro [video promocional](https://youtu.be/R76PtaAqw-o)
 
 Grupo: DIU1_PIÑA🍍.  Curso: 2020/21 
 
-Updated: 01/06/2021
+Updated: 29/05/2021
 
 Proyecto: 
 **GrandTrip**
@@ -266,12 +266,11 @@ Ambas aplicaciones obtienen una media dentro del rango *ACEPTABLE TIPO B (EXECEL
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
-Hemos realizado también un informe de usabilidad a partir de los datos obtenidos del A/B testing:
+Hemos realizado también un informe de usabilidad a partir de los datos obtenidos del A/B testing, tanto para nuestro caso a modo de autocrítica tanto para el caso asignado:
 
-🔗Enlace directo al informe sobre [**GranadaÁrabe**](https://github.com/pablojj1808/DIU21/blob/master/P4/Cuestionario%20SUS%20DIU.xlsx)
+🔗Enlace directo al informe sobre [**GranadaÁrabe**](https://github.com/pablojj1808/DIU21/blob/master/P4/UsabilityReport_GranadaArabe.pdf)
 
->>> Valoración personal 
-
+🔗Enlace directo al informe sobre [**GrandTrip**](https://github.com/pablojj1808/DIU21/blob/master/P4/UsabilityReport_GrandTrip.pdf)
 
 ## Paso 5. Evaluación de Accesibilidad  
 
@@ -292,15 +291,9 @@ Hemos realizado también un informe de usabilidad a partir de los datos obtenido
 
 ## Conclusión final / Valoración de las prácticas
 
-
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
-
-
-
-
-
-
-
+Consideramos que hablar de diseño es fundamental al fin y al cabo todos los días estamos usando aplicaciones y tenemos que lidiar con muchas distintas interfaces cada una con una filosofía distinta por lo que crear conocimiento sobre ello en forma de guidelines es algo muy positivo para estandarizar procedimientos y diseños.
+En las prácticas de esta asignatura hemos visto todo el proceso que se debe seguir para generar un producto que cumpla con los estándares de esta industria y no sólo en el termino legal de accesibilidad sino también en el visual de acuerdo con los tiempos en los que vivimos y la época en la que se encuentran las TICs.
+La asignatura ha servido para fijarnos en detalles que antes podían pasar desapercibidos pero que marcan la diferencia entre un producto que parece bien finalizado y pensado, y otro que se queda a medio camino. La buena experiencia de usuario puede y debe ir de la mano de unas políticas de accesibilidad que permitan a todo el mundo disfrutar del sitio adaptándose a las necesidades particulares de los usuarios.
 
 
 
