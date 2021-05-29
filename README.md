@@ -266,9 +266,9 @@ Ambas aplicaciones obtienen una media dentro del rango *ACEPTABLE TIPO B (EXECEL
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+Hemos realizado también un informe de usabilidad a partir de los datos obtenidos del A/B testing:
 
-
+🔗Enlace directo al informe sobre [**GranadaÁrabe**](https://github.com/pablojj1808/DIU21/blob/master/P4/Cuestionario%20SUS%20DIU.xlsx)
 
 >>> Valoración personal 
 
