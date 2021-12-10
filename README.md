@@ -20,7 +20,7 @@ Descripción:
 
 Miembros
  * :bust_in_silhouette:   [Raquel Molina Reche](https://github.com/rmr00)             :octocat:     
- * :bust_in_silhouette:   [Pablo Jiménez Jiménez](https://github.com/pablojj1808)     :octocat:
+ * :bust_in_silhouette:   [Pablo Jiménez Jiménez](https://github.com/pablojjimenez)     :octocat:
 
 ----- 
 
